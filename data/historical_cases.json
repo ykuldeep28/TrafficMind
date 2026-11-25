@@ -1,0 +1,82 @@
+[
+  {
+    "id": "CASE-101",
+    "title": "East Arterial Construction & Heavy Congestion",
+    "signature": {
+      "north": 20,
+      "south": 20,
+      "east": 80,
+      "west": 20,
+      "closed": "E",
+      "emergency": "none"
+    },
+    "historical_problem": "East approach carries 80 vehicles with East road closed. Severe queue backlog threatened to lock the intersection.",
+    "historical_solution": "NS Corridor Priority (NS: 50s, EW: 16s). Flushing open North-South corridor minimized gridlock and reduced waiting time by ~63%.",
+    "best_ns": 50,
+    "best_ew": 16
+  },
+  {
+    "id": "CASE-102",
+    "title": "Code-3 Ambulance Transit on North Approach",
+    "signature": {
+      "north": 35,
+      "south": 20,
+      "east": 25,
+      "west": 20,
+      "closed": "none",
+      "emergency": "N"
+    },
+    "historical_problem": "Emergency response vehicle active on North approach requiring uninterrupted right-of-way.",
+    "historical_solution": "Emergency North-South Green Wave (NS: 55s, EW: 15s). Provided zero-delay preemption for the ambulance.",
+    "best_ns": 55,
+    "best_ew": 15
+  },
+  {
+    "id": "CASE-103",
+    "title": "Evening Peak East-West Arterial Imbalance",
+    "signature": {
+      "north": 15,
+      "south": 15,
+      "east": 75,
+      "west": 65,
+      "closed": "none",
+      "emergency": "none"
+    },
+    "historical_problem": "Heavy commute volume on East-West axis (140 vehicles) while North-South was lightly loaded (30 vehicles).",
+    "historical_solution": "EW Heavy Corridor Priority (NS: 20s, EW: 50s). Maximized discharge on major arterial, saving 18s average wait per car.",
+    "best_ns": 20,
+    "best_ew": 50
+  },
+  {
+    "id": "CASE-104",
+    "title": "Balanced Rush Hour Four-Way Saturation",
+    "signature": {
+      "north": 40,
+      "south": 38,
+      "east": 42,
+      "west": 40,
+      "closed": "none",
+      "emergency": "none"
+    },
+    "historical_problem": "High balanced demand on all four approaches causing cycle queue accumulation on red signals.",
+    "historical_solution": "Balanced Dynamic Timing (NS: 35s, EW: 35s). Balanced green splits maintained steady queue dissipation.",
+    "best_ns": 35,
+    "best_ew": 35
+  },
+  {
+    "id": "CASE-105",
+    "title": "North Approach Water Pipeline Closure",
+    "signature": {
+      "north": 40,
+      "south": 25,
+      "east": 30,
+      "west": 30,
+      "closed": "N",
+      "emergency": "none"
+    },
+    "historical_problem": "North approach closed due to infrastructure work, detouring traffic to East-West corridor.",
+    "historical_solution": "EW Corridor Priority (NS: 18s, EW: 50s). Favored open East-West flow to prevent detour bottlenecks.",
+    "best_ns": 18,
+    "best_ew": 50
+  }
+]

@@ -1,0 +1,177 @@
+<routes>
+  <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" minGap="2.5" maxSpeed="13.9"/>
+  <vType id="bottlenecked_car" accel="1.0" decel="4.5" sigma="0.8" length="5" minGap="3.5" maxSpeed="4.5"/>
+  <vType id="emergency" accel="4.0" decel="6.5" sigma="0.1" length="6.5" minGap="1.5" maxSpeed="22.2" guiShape="emergency" vClass="emergency"/>
+  <route id="r0" edges="N2C C2S"/>
+  <route id="r1" edges="N2C C2W"/>
+  <route id="r2" edges="N2C C2S"/>
+  <route id="r3" edges="N2C C2W"/>
+  <route id="r4" edges="N2C C2S"/>
+  <route id="r5" edges="N2C C2W"/>
+  <route id="r6" edges="N2C C2S"/>
+  <route id="r7" edges="N2C C2W"/>
+  <route id="r8" edges="N2C C2S"/>
+  <route id="r9" edges="N2C C2W"/>
+  <route id="r10" edges="N2C C2S"/>
+  <route id="r11" edges="N2C C2W"/>
+  <route id="r12" edges="N2C C2S"/>
+  <route id="r13" edges="N2C C2W"/>
+  <route id="r14" edges="N2C C2S"/>
+  <route id="r15" edges="N2C C2W"/>
+  <route id="r16" edges="N2C C2S"/>
+  <route id="r17" edges="N2C C2W"/>
+  <route id="r18" edges="N2C C2S"/>
+  <route id="r19" edges="N2C C2W"/>
+  <route id="r20" edges="S2C C2N"/>
+  <route id="r21" edges="S2C C2W"/>
+  <route id="r22" edges="S2C C2N"/>
+  <route id="r23" edges="S2C C2W"/>
+  <route id="r24" edges="S2C C2N"/>
+  <route id="r25" edges="S2C C2W"/>
+  <route id="r26" edges="S2C C2N"/>
+  <route id="r27" edges="S2C C2W"/>
+  <route id="r28" edges="S2C C2N"/>
+  <route id="r29" edges="S2C C2W"/>
+  <route id="r30" edges="S2C C2N"/>
+  <route id="r31" edges="S2C C2W"/>
+  <route id="r32" edges="S2C C2N"/>
+  <route id="r33" edges="S2C C2W"/>
+  <route id="r34" edges="S2C C2N"/>
+  <route id="r35" edges="S2C C2W"/>
+  <route id="r36" edges="S2C C2N"/>
+  <route id="r37" edges="S2C C2W"/>
+  <route id="r38" edges="S2C C2N"/>
+  <route id="r39" edges="S2C C2W"/>
+  <route id="r40" edges="E2C C2N"/>
+  <route id="r41" edges="E2C C2S"/>
+  <route id="r42" edges="E2C C2W"/>
+  <route id="r43" edges="E2C C2N"/>
+  <route id="r44" edges="E2C C2S"/>
+  <route id="r45" edges="E2C C2W"/>
+  <route id="r46" edges="E2C C2N"/>
+  <route id="r47" edges="E2C C2S"/>
+  <route id="r48" edges="E2C C2W"/>
+  <route id="r49" edges="E2C C2N"/>
+  <route id="r50" edges="E2C C2S"/>
+  <route id="r51" edges="E2C C2W"/>
+  <route id="r52" edges="E2C C2N"/>
+  <route id="r53" edges="E2C C2S"/>
+  <route id="r54" edges="E2C C2W"/>
+  <route id="r55" edges="E2C C2N"/>
+  <route id="r56" edges="E2C C2S"/>
+  <route id="r57" edges="E2C C2W"/>
+  <route id="r58" edges="E2C C2N"/>
+  <route id="r59" edges="E2C C2S"/>
+  <route id="r60" edges="E2C C2W"/>
+  <route id="r61" edges="E2C C2N"/>
+  <route id="r62" edges="E2C C2S"/>
+  <route id="r63" edges="E2C C2W"/>
+  <route id="r64" edges="E2C C2N"/>
+  <route id="r65" edges="E2C C2S"/>
+  <route id="r66" edges="W2C C2N"/>
+  <route id="r67" edges="W2C C2S"/>
+  <route id="r68" edges="W2C C2N"/>
+  <route id="r69" edges="W2C C2S"/>
+  <route id="r70" edges="W2C C2N"/>
+  <route id="r71" edges="W2C C2S"/>
+  <route id="r72" edges="W2C C2N"/>
+  <route id="r73" edges="W2C C2S"/>
+  <route id="r74" edges="W2C C2N"/>
+  <route id="r75" edges="W2C C2S"/>
+  <route id="r76" edges="W2C C2N"/>
+  <route id="r77" edges="W2C C2S"/>
+  <route id="r78" edges="W2C C2N"/>
+  <route id="r79" edges="W2C C2S"/>
+  <route id="r80" edges="W2C C2N"/>
+  <route id="r81" edges="W2C C2S"/>
+  <route id="r82" edges="W2C C2N"/>
+  <route id="r83" edges="W2C C2S"/>
+  <route id="r84" edges="W2C C2N"/>
+  <route id="r85" edges="W2C C2S"/>
+  <vehicle id="v0" type="car" route="r0" depart="7"/>
+  <vehicle id="v1" type="car" route="r1" depart="14"/>
+  <vehicle id="v2" type="car" route="r2" depart="21"/>
+  <vehicle id="v3" type="car" route="r3" depart="28"/>
+  <vehicle id="v4" type="car" route="r4" depart="36"/>
+  <vehicle id="v5" type="car" route="r5" depart="43"/>
+  <vehicle id="v6" type="car" route="r6" depart="50"/>
+  <vehicle id="v7" type="car" route="r7" depart="57"/>
+  <vehicle id="v8" type="car" route="r8" depart="64"/>
+  <vehicle id="v9" type="car" route="r9" depart="72"/>
+  <vehicle id="v10" type="car" route="r10" depart="79"/>
+  <vehicle id="v11" type="car" route="r11" depart="86"/>
+  <vehicle id="v12" type="car" route="r12" depart="93"/>
+  <vehicle id="v13" type="car" route="r13" depart="100"/>
+  <vehicle id="v14" type="car" route="r14" depart="108"/>
+  <vehicle id="v15" type="car" route="r15" depart="115"/>
+  <vehicle id="v16" type="car" route="r16" depart="122"/>
+  <vehicle id="v17" type="car" route="r17" depart="129"/>
+  <vehicle id="v18" type="car" route="r18" depart="136"/>
+  <vehicle id="v19" type="car" route="r19" depart="144"/>
+  <vehicle id="v20" type="car" route="r20" depart="7"/>
+  <vehicle id="v21" type="car" route="r21" depart="14"/>
+  <vehicle id="v22" type="car" route="r22" depart="21"/>
+  <vehicle id="v23" type="car" route="r23" depart="28"/>
+  <vehicle id="v24" type="car" route="r24" depart="36"/>
+  <vehicle id="v25" type="car" route="r25" depart="43"/>
+  <vehicle id="v26" type="car" route="r26" depart="50"/>
+  <vehicle id="v27" type="car" route="r27" depart="57"/>
+  <vehicle id="v28" type="car" route="r28" depart="64"/>
+  <vehicle id="v29" type="car" route="r29" depart="72"/>
+  <vehicle id="v30" type="car" route="r30" depart="79"/>
+  <vehicle id="v31" type="car" route="r31" depart="86"/>
+  <vehicle id="v32" type="car" route="r32" depart="93"/>
+  <vehicle id="v33" type="car" route="r33" depart="100"/>
+  <vehicle id="v34" type="car" route="r34" depart="108"/>
+  <vehicle id="v35" type="car" route="r35" depart="115"/>
+  <vehicle id="v36" type="car" route="r36" depart="122"/>
+  <vehicle id="v37" type="car" route="r37" depart="129"/>
+  <vehicle id="v38" type="car" route="r38" depart="136"/>
+  <vehicle id="v39" type="car" route="r39" depart="144"/>
+  <vehicle id="v40" type="bottlenecked_car" route="r40" depart="5"/>
+  <vehicle id="v41" type="bottlenecked_car" route="r41" depart="11"/>
+  <vehicle id="v42" type="bottlenecked_car" route="r42" depart="16"/>
+  <vehicle id="v43" type="bottlenecked_car" route="r43" depart="22"/>
+  <vehicle id="v44" type="bottlenecked_car" route="r44" depart="27"/>
+  <vehicle id="v45" type="bottlenecked_car" route="r45" depart="33"/>
+  <vehicle id="v46" type="bottlenecked_car" route="r46" depart="38"/>
+  <vehicle id="v47" type="bottlenecked_car" route="r47" depart="44"/>
+  <vehicle id="v48" type="bottlenecked_car" route="r48" depart="49"/>
+  <vehicle id="v49" type="bottlenecked_car" route="r49" depart="55"/>
+  <vehicle id="v50" type="bottlenecked_car" route="r50" depart="60"/>
+  <vehicle id="v51" type="bottlenecked_car" route="r51" depart="66"/>
+  <vehicle id="v52" type="bottlenecked_car" route="r52" depart="72"/>
+  <vehicle id="v53" type="bottlenecked_car" route="r53" depart="77"/>
+  <vehicle id="v54" type="bottlenecked_car" route="r54" depart="83"/>
+  <vehicle id="v55" type="bottlenecked_car" route="r55" depart="88"/>
+  <vehicle id="v56" type="bottlenecked_car" route="r56" depart="94"/>
+  <vehicle id="v57" type="bottlenecked_car" route="r57" depart="99"/>
+  <vehicle id="v58" type="bottlenecked_car" route="r58" depart="105"/>
+  <vehicle id="v59" type="bottlenecked_car" route="r59" depart="110"/>
+  <vehicle id="v60" type="bottlenecked_car" route="r60" depart="116"/>
+  <vehicle id="v61" type="bottlenecked_car" route="r61" depart="121"/>
+  <vehicle id="v62" type="bottlenecked_car" route="r62" depart="127"/>
+  <vehicle id="v63" type="bottlenecked_car" route="r63" depart="132"/>
+  <vehicle id="v64" type="bottlenecked_car" route="r64" depart="138"/>
+  <vehicle id="v65" type="bottlenecked_car" route="r65" depart="144"/>
+  <vehicle id="v66" type="car" route="r66" depart="7"/>
+  <vehicle id="v67" type="car" route="r67" depart="14"/>
+  <vehicle id="v68" type="car" route="r68" depart="21"/>
+  <vehicle id="v69" type="car" route="r69" depart="28"/>
+  <vehicle id="v70" type="car" route="r70" depart="36"/>
+  <vehicle id="v71" type="car" route="r71" depart="43"/>
+  <vehicle id="v72" type="car" route="r72" depart="50"/>
+  <vehicle id="v73" type="car" route="r73" depart="57"/>
+  <vehicle id="v74" type="car" route="r74" depart="64"/>
+  <vehicle id="v75" type="car" route="r75" depart="72"/>
+  <vehicle id="v76" type="car" route="r76" depart="79"/>
+  <vehicle id="v77" type="car" route="r77" depart="86"/>
+  <vehicle id="v78" type="car" route="r78" depart="93"/>
+  <vehicle id="v79" type="car" route="r79" depart="100"/>
+  <vehicle id="v80" type="car" route="r80" depart="108"/>
+  <vehicle id="v81" type="car" route="r81" depart="115"/>
+  <vehicle id="v82" type="car" route="r82" depart="122"/>
+  <vehicle id="v83" type="car" route="r83" depart="129"/>
+  <vehicle id="v84" type="car" route="r84" depart="136"/>
+  <vehicle id="v85" type="car" route="r85" depart="144"/>
+</routes>

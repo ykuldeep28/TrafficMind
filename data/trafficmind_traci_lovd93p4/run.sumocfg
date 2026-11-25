@@ -1,0 +1,6 @@
+<configuration>
+  <input><net-file value="intersection.net.xml"/><route-files value="traffic.rou.xml"/><additional-files value="signal.add.xml"/></input>
+  <time><begin value="0"/><end value="180"/><step-length value="1"/></time>
+  <output><tripinfo-output value="tripinfo.xml"/></output>
+  <processing><time-to-teleport value="-1"/></processing>
+</configuration>

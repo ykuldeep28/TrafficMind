@@ -1,0 +1,1201 @@
+scenario_id,scenario_type,north,south,east,west,closed_road,emergency_approach,hour_of_day,optimal_ns_green,optimal_ew_green,best_strategy_name
+SCN_0001,emergency_ew,27,48,40,26,none,E,20,13,54,Emergency EW Green Wave
+SCN_0002,heavy_ns,99,73,12,11,none,none,9,55,15,NS Priority
+SCN_0003,closure_ew,40,20,51,45,W,none,11,44,17,NS Corridor Priority
+SCN_0004,balanced,42,42,30,29,none,none,15,41,28,NS Priority
+SCN_0005,emergency_ns,38,31,42,39,none,S,20,53,15,Emergency NS Green Wave
+SCN_0006,heavy_ns,80,58,16,27,none,none,12,53,16,NS Priority
+SCN_0007,closure_ew,28,40,41,39,W,none,19,51,14,NS Corridor Priority
+SCN_0008,closure_ew,22,33,56,23,E,none,13,51,14,NS Corridor Priority
+SCN_0009,emergency_ns,29,23,41,48,none,S,11,56,15,Emergency NS Green Wave
+SCN_0010,emergency_ns,35,32,37,34,none,N,13,54,16,Emergency NS Green Wave
+SCN_0011,closure_ew,34,32,40,44,E,none,18,51,17,NS Corridor Priority
+SCN_0012,heavy_ns,92,54,19,16,none,none,8,55,15,NS Priority
+SCN_0013,heavy_ew,21,16,68,37,none,none,14,18,51,EW Priority
+SCN_0014,closure_ew,35,42,62,49,E,none,7,52,14,NS Corridor Priority
+SCN_0015,emergency_ns,22,24,34,33,none,N,8,55,16,Emergency NS Green Wave
+SCN_0016,emergency_ew,46,28,34,34,none,E,19,14,53,Emergency EW Green Wave
+SCN_0017,heavy_ns,108,81,13,14,none,none,12,55,15,NS Priority
+SCN_0018,emergency_ew,34,30,48,23,none,E,12,15,56,Emergency EW Green Wave
+SCN_0019,heavy_ns,101,94,15,21,none,none,7,55,15,NS Priority
+SCN_0020,closure_ew,42,44,78,49,W,none,16,49,15,NS Corridor Priority
+SCN_0021,emergency_ns,22,26,25,27,none,N,18,52,19,Emergency NS Green Wave
+SCN_0022,balanced,26,38,29,41,none,none,15,33,36,Balanced Timing
+SCN_0023,emergency_ns,36,49,36,45,none,S,14,51,14,Emergency NS Green Wave
+SCN_0024,balanced,41,31,16,16,none,none,22,48,21,NS Priority
+SCN_0025,closure_ew,20,20,58,49,W,none,10,49,14,NS Corridor Priority
+SCN_0026,emergency_ns,30,43,46,36,none,N,9,53,17,Emergency NS Green Wave
+SCN_0027,closure_ew,41,30,87,35,W,none,7,49,17,NS Corridor Priority
+SCN_0028,emergency_ns,22,39,47,46,none,N,21,56,13,Emergency NS Green Wave
+SCN_0029,emergency_ew,28,20,27,26,none,W,12,13,54,Emergency EW Green Wave
+SCN_0030,emergency_ew,26,47,35,45,none,E,15,15,55,Emergency EW Green Wave
+SCN_0031,balanced,15,30,44,26,none,none,7,27,42,EW Priority
+SCN_0032,closure_ns,38,28,22,38,S,none,10,16,50,EW Corridor Priority
+SCN_0033,emergency_ns,39,30,36,27,none,S,6,56,16,Emergency NS Green Wave
+SCN_0034,emergency_ns,49,44,22,44,none,S,8,58,15,Emergency NS Green Wave
+SCN_0035,closure_ns,62,23,20,33,S,none,14,17,48,EW Corridor Priority
+SCN_0036,emergency_ew,20,35,31,46,none,E,8,12,53,Emergency EW Green Wave
+SCN_0037,emergency_ns,32,38,41,27,none,S,11,57,15,Emergency NS Green Wave
+SCN_0038,emergency_ns,34,20,24,47,none,S,6,53,16,Emergency NS Green Wave
+SCN_0039,heavy_ns,76,93,23,15,none,none,22,55,15,NS Priority
+SCN_0040,heavy_ns,96,73,26,23,none,none,14,54,15,NS Priority
+SCN_0041,closure_ns,62,39,40,42,S,none,8,15,46,EW Corridor Priority
+SCN_0042,heavy_ew,24,15,62,69,none,none,15,16,53,EW Priority
+SCN_0043,emergency_ns,42,21,46,29,none,S,20,55,15,Emergency NS Green Wave
+SCN_0044,balanced,25,36,30,21,none,none,14,38,31,Balanced Timing
+SCN_0045,closure_ns,55,22,37,44,N,none,15,14,50,EW Corridor Priority
+SCN_0046,emergency_ew,39,20,27,33,none,E,9,15,55,Emergency EW Green Wave
+SCN_0047,emergency_ew,21,21,42,41,none,W,20,13,54,Emergency EW Green Wave
+SCN_0048,emergency_ns,29,25,34,41,none,S,22,51,15,Emergency NS Green Wave
+SCN_0049,closure_ns,34,26,23,25,S,none,17,16,48,EW Corridor Priority
+SCN_0050,emergency_ew,27,39,35,32,none,E,8,14,54,Emergency EW Green Wave
+SCN_0051,heavy_ns,85,72,18,21,none,none,10,55,15,NS Priority
+SCN_0052,closure_ns,30,34,21,41,S,none,6,17,52,EW Corridor Priority
+SCN_0053,closure_ns,68,24,41,42,S,none,6,16,48,EW Corridor Priority
+SCN_0054,heavy_ns,81,78,23,14,none,none,10,55,15,NS Priority
+SCN_0055,emergency_ew,33,49,39,24,none,W,22,13,54,Emergency EW Green Wave
+SCN_0056,closure_ns,62,49,24,42,S,none,12,15,51,EW Corridor Priority
+SCN_0057,heavy_ew,17,14,104,33,none,none,6,15,55,EW Priority
+SCN_0058,emergency_ew,47,46,39,43,none,E,7,16,58,Emergency EW Green Wave
+SCN_0059,balanced,43,33,25,19,none,none,6,44,25,NS Priority
+SCN_0060,closure_ew,20,27,49,30,E,none,8,50,15,NS Corridor Priority
+SCN_0061,balanced,43,40,24,40,none,none,13,39,30,Balanced Timing
+SCN_0062,emergency_ns,28,26,23,45,none,N,7,56,17,Emergency NS Green Wave
+SCN_0063,closure_ns,50,48,44,23,N,none,9,16,48,EW Corridor Priority
+SCN_0064,heavy_ns,94,97,13,27,none,none,22,55,15,NS Priority
+SCN_0065,balanced,38,37,44,19,none,none,12,38,31,Balanced Timing
+SCN_0066,closure_ew,32,42,64,22,E,none,22,52,16,NS Corridor Priority
+SCN_0067,emergency_ns,38,36,23,31,none,N,18,55,14,Emergency NS Green Wave
+SCN_0068,emergency_ew,40,24,22,31,none,W,20,16,52,Emergency EW Green Wave
+SCN_0069,closure_ew,26,32,92,29,E,none,21,53,16,NS Corridor Priority
+SCN_0070,emergency_ew,29,45,31,36,none,E,17,14,55,Emergency EW Green Wave
+SCN_0071,heavy_ew,14,22,96,67,none,none,7,15,55,EW Priority
+SCN_0072,heavy_ns,107,94,10,29,none,none,13,55,15,NS Priority
+SCN_0073,balanced,39,27,18,18,none,none,12,45,24,NS Priority
+SCN_0074,emergency_ns,26,46,29,45,none,S,17,53,12,Emergency NS Green Wave
+SCN_0075,closure_ns,57,49,39,27,S,none,18,16,48,EW Corridor Priority
+SCN_0076,balanced,27,42,44,39,none,none,8,31,38,Balanced Timing
+SCN_0077,emergency_ew,43,20,25,40,none,E,22,15,56,Emergency EW Green Wave
+SCN_0078,heavy_ns,95,84,28,29,none,none,10,53,16,NS Priority
+SCN_0079,balanced,23,31,28,29,none,none,20,34,35,Balanced Timing
+SCN_0080,emergency_ew,41,41,22,35,none,E,6,15,55,Emergency EW Green Wave
+SCN_0081,heavy_ew,17,15,71,53,none,none,21,15,55,EW Priority
+SCN_0082,closure_ew,23,27,89,47,W,none,13,46,16,NS Corridor Priority
+SCN_0083,closure_ew,35,32,85,22,W,none,18,51,18,NS Corridor Priority
+SCN_0084,heavy_ew,17,23,109,34,none,none,15,15,54,EW Priority
+SCN_0085,emergency_ew,20,37,34,36,none,W,6,17,53,Emergency EW Green Wave
+SCN_0086,balanced,27,15,16,23,none,none,22,36,33,Balanced Timing
+SCN_0087,heavy_ns,80,97,15,26,none,none,6,55,15,NS Priority
+SCN_0088,closure_ns,32,40,42,24,S,none,10,17,51,EW Corridor Priority
+SCN_0089,heavy_ns,80,63,18,23,none,none,22,54,15,NS Priority
+SCN_0090,balanced,27,18,44,15,none,none,18,30,39,Balanced Timing
+SCN_0091,balanced,16,42,22,21,none,none,13,40,29,NS Priority
+SCN_0092,heavy_ew,15,15,62,41,none,none,7,15,54,EW Priority
+SCN_0093,balanced,19,44,44,41,none,none,17,29,40,EW Priority
+SCN_0094,balanced,30,29,37,29,none,none,22,33,36,Balanced Timing
+SCN_0095,closure_ns,40,38,26,25,S,none,19,16,50,EW Corridor Priority
+SCN_0096,heavy_ew,11,23,74,56,none,none,7,15,55,EW Priority
+SCN_0097,heavy_ns,97,82,24,19,none,none,7,55,15,NS Priority
+SCN_0098,heavy_ns,64,78,13,19,none,none,22,55,15,NS Priority
+SCN_0099,balanced,31,42,34,38,none,none,15,35,34,Balanced Timing
+SCN_0100,closure_ns,31,32,30,30,S,none,7,15,49,EW Corridor Priority
+SCN_0101,balanced,25,36,30,22,none,none,21,37,32,Balanced Timing
+SCN_0102,closure_ew,43,44,42,22,W,none,13,50,16,NS Corridor Priority
+SCN_0103,closure_ns,57,29,41,40,S,none,10,18,54,EW Corridor Priority
+SCN_0104,closure_ew,36,33,65,32,W,none,19,48,15,NS Corridor Priority
+SCN_0105,emergency_ew,49,30,35,48,none,W,20,15,53,Emergency EW Green Wave
+SCN_0106,closure_ew,43,41,53,45,E,none,20,50,18,NS Corridor Priority
+SCN_0107,heavy_ew,19,23,66,32,none,none,18,21,49,EW Priority
+SCN_0108,emergency_ew,34,47,32,37,none,E,19,17,50,Emergency EW Green Wave
+SCN_0109,emergency_ew,29,26,44,36,none,W,10,14,52,Emergency EW Green Wave
+SCN_0110,closure_ew,39,44,43,29,E,none,22,49,18,NS Corridor Priority
+SCN_0111,emergency_ew,41,21,34,27,none,E,9,17,58,Emergency EW Green Wave
+SCN_0112,heavy_ew,14,15,85,63,none,none,14,15,55,EW Priority
+SCN_0113,heavy_ns,65,86,10,15,none,none,18,55,15,NS Priority
+SCN_0114,emergency_ns,49,30,49,49,none,S,21,56,15,Emergency NS Green Wave
+SCN_0115,emergency_ew,36,49,43,25,none,W,11,15,55,Emergency EW Green Wave
+SCN_0116,emergency_ew,45,38,32,31,none,W,16,13,56,Emergency EW Green Wave
+SCN_0117,closure_ew,34,20,65,33,W,none,22,51,13,NS Corridor Priority
+SCN_0118,heavy_ns,72,92,12,10,none,none,9,55,15,NS Priority
+SCN_0119,emergency_ns,42,29,31,21,none,N,15,57,14,Emergency NS Green Wave
+SCN_0120,balanced,23,31,23,25,none,none,10,37,32,Balanced Timing
+SCN_0121,emergency_ew,22,49,36,24,none,E,11,15,53,Emergency EW Green Wave
+SCN_0122,balanced,26,17,17,15,none,none,7,40,29,NS Priority
+SCN_0123,emergency_ns,28,24,33,47,none,N,13,54,14,Emergency NS Green Wave
+SCN_0124,closure_ns,33,44,32,29,S,none,19,17,49,EW Corridor Priority
+SCN_0125,emergency_ew,38,48,25,20,none,W,13,15,58,Emergency EW Green Wave
+SCN_0126,balanced,15,29,37,16,none,none,22,31,38,Balanced Timing
+SCN_0127,emergency_ns,38,26,38,25,none,S,13,55,15,Emergency NS Green Wave
+SCN_0128,heavy_ew,24,22,92,59,none,none,20,16,53,EW Priority
+SCN_0129,emergency_ew,25,44,20,48,none,E,9,16,53,Emergency EW Green Wave
+SCN_0130,emergency_ns,21,29,24,46,none,S,9,54,15,Emergency NS Green Wave
+SCN_0131,closure_ns,74,43,39,43,S,none,20,20,50,EW Corridor Priority
+SCN_0132,closure_ns,41,32,21,38,S,none,20,16,53,EW Corridor Priority
+SCN_0133,heavy_ns,79,60,19,17,none,none,10,55,15,NS Priority
+SCN_0134,emergency_ns,42,34,45,33,none,S,11,56,15,Emergency NS Green Wave
+SCN_0135,emergency_ns,27,47,30,31,none,N,6,57,16,Emergency NS Green Wave
+SCN_0136,emergency_ew,38,48,33,27,none,W,14,14,54,Emergency EW Green Wave
+SCN_0137,heavy_ew,13,15,82,30,none,none,19,15,55,EW Priority
+SCN_0138,emergency_ew,40,34,28,40,none,E,13,16,53,Emergency EW Green Wave
+SCN_0139,closure_ns,54,45,30,25,N,none,14,14,47,EW Corridor Priority
+SCN_0140,heavy_ew,20,20,103,53,none,none,22,15,55,EW Priority
+SCN_0141,balanced,34,20,35,38,none,none,12,29,40,EW Priority
+SCN_0142,balanced,43,25,36,40,none,none,22,33,36,Balanced Timing
+SCN_0143,closure_ew,36,39,80,36,E,none,22,52,16,NS Corridor Priority
+SCN_0144,emergency_ew,26,20,32,49,none,E,13,13,56,Emergency EW Green Wave
+SCN_0145,heavy_ns,104,78,25,17,none,none,22,55,15,NS Priority
+SCN_0146,heavy_ns,73,96,27,11,none,none,6,55,15,NS Priority
+SCN_0147,emergency_ns,49,25,38,23,none,S,22,55,14,Emergency NS Green Wave
+SCN_0148,emergency_ew,29,29,38,33,none,W,8,17,55,Emergency EW Green Wave
+SCN_0149,emergency_ew,27,20,44,42,none,E,12,13,53,Emergency EW Green Wave
+SCN_0150,emergency_ew,44,34,24,22,none,W,13,15,56,Emergency EW Green Wave
+SCN_0151,heavy_ew,17,23,91,45,none,none,8,15,54,EW Priority
+SCN_0152,closure_ew,40,33,70,42,W,none,10,46,18,NS Corridor Priority
+SCN_0153,heavy_ew,24,14,79,40,none,none,6,16,53,EW Priority
+SCN_0154,heavy_ew,12,16,71,49,none,none,7,15,55,EW Priority
+SCN_0155,closure_ns,59,28,21,40,S,none,10,16,49,EW Corridor Priority
+SCN_0156,emergency_ns,36,29,49,43,none,S,17,54,15,Emergency NS Green Wave
+SCN_0157,balanced,28,23,22,16,none,none,22,40,29,NS Priority
+SCN_0158,closure_ns,51,30,33,23,N,none,12,17,52,EW Corridor Priority
+SCN_0159,emergency_ns,28,25,21,36,none,S,15,54,11,Emergency NS Green Wave
+SCN_0160,closure_ew,40,44,70,25,W,none,15,48,17,NS Corridor Priority
+SCN_0161,closure_ns,74,36,40,33,S,none,12,15,50,EW Corridor Priority
+SCN_0162,closure_ew,30,23,88,46,W,none,16,51,13,NS Corridor Priority
+SCN_0163,heavy_ew,17,15,81,34,none,none,20,15,54,EW Priority
+SCN_0164,balanced,29,34,33,17,none,none,9,39,30,Balanced Timing
+SCN_0165,closure_ew,32,30,73,28,E,none,16,49,16,NS Corridor Priority
+SCN_0166,balanced,31,15,39,43,none,none,13,25,44,EW Priority
+SCN_0167,heavy_ns,101,74,16,12,none,none,13,55,15,NS Priority
+SCN_0168,heavy_ns,103,93,28,15,none,none,10,55,15,NS Priority
+SCN_0169,heavy_ew,12,14,103,46,none,none,17,15,55,EW Priority
+SCN_0170,heavy_ew,24,21,75,53,none,none,22,18,51,EW Priority
+SCN_0171,heavy_ns,90,70,26,14,none,none,13,55,15,NS Priority
+SCN_0172,emergency_ns,27,44,37,44,none,S,21,57,16,Emergency NS Green Wave
+SCN_0173,balanced,40,29,24,30,none,none,18,39,30,Balanced Timing
+SCN_0174,emergency_ew,45,40,41,45,none,E,22,13,54,Emergency EW Green Wave
+SCN_0175,emergency_ew,35,27,37,46,none,E,14,14,56,Emergency EW Green Wave
+SCN_0176,emergency_ns,37,46,29,26,none,N,12,55,14,Emergency NS Green Wave
+SCN_0177,heavy_ns,104,83,12,14,none,none,17,55,15,NS Priority
+SCN_0178,heavy_ns,85,72,21,16,none,none,13,55,15,NS Priority
+SCN_0179,emergency_ew,48,41,44,32,none,W,22,16,55,Emergency EW Green Wave
+SCN_0180,heavy_ew,23,11,94,63,none,none,17,15,55,EW Priority
+SCN_0181,emergency_ns,37,22,46,26,none,N,18,60,14,Emergency NS Green Wave
+SCN_0182,closure_ew,29,44,78,39,E,none,20,48,17,NS Corridor Priority
+SCN_0183,heavy_ns,73,79,27,13,none,none,18,55,15,NS Priority
+SCN_0184,heavy_ew,18,10,105,44,none,none,10,15,55,EW Priority
+SCN_0185,balanced,31,39,38,18,none,none,20,38,31,Balanced Timing
+SCN_0186,closure_ew,24,30,45,26,E,none,10,54,15,NS Corridor Priority
+SCN_0187,balanced,34,18,41,22,none,none,12,31,38,Balanced Timing
+SCN_0188,closure_ew,29,30,73,44,W,none,18,48,15,NS Corridor Priority
+SCN_0189,heavy_ns,64,54,24,26,none,none,11,49,20,NS Priority
+SCN_0190,balanced,34,40,31,43,none,none,8,35,35,Balanced Timing
+SCN_0191,heavy_ns,94,99,27,26,none,none,15,54,15,NS Priority
+SCN_0192,heavy_ns,97,62,24,18,none,none,8,55,15,NS Priority
+SCN_0193,closure_ew,21,30,80,43,E,none,19,48,15,NS Corridor Priority
+SCN_0194,balanced,39,16,26,24,none,none,8,36,33,Balanced Timing
+SCN_0195,balanced,22,39,19,25,none,none,20,40,29,NS Priority
+SCN_0196,heavy_ns,83,64,15,17,none,none,7,55,15,NS Priority
+SCN_0197,heavy_ns,107,75,27,15,none,none,10,55,15,NS Priority
+SCN_0198,closure_ns,57,24,32,36,N,none,21,17,50,EW Corridor Priority
+SCN_0199,heavy_ns,93,89,22,22,none,none,13,55,15,NS Priority
+SCN_0200,balanced,38,33,30,22,none,none,11,40,29,NS Priority
+SCN_0201,closure_ew,35,28,52,30,E,none,6,50,15,NS Corridor Priority
+SCN_0202,closure_ew,30,32,90,42,E,none,12,50,15,NS Corridor Priority
+SCN_0203,heavy_ew,11,23,72,58,none,none,9,15,55,EW Priority
+SCN_0204,closure_ew,32,33,66,36,W,none,12,48,16,NS Corridor Priority
+SCN_0205,heavy_ew,12,15,78,59,none,none,18,15,55,EW Priority
+SCN_0206,emergency_ew,21,47,47,34,none,E,15,15,55,Emergency EW Green Wave
+SCN_0207,heavy_ew,20,10,71,51,none,none,9,15,55,EW Priority
+SCN_0208,balanced,36,15,36,40,none,none,15,28,41,EW Priority
+SCN_0209,heavy_ns,106,78,21,13,none,none,19,55,15,NS Priority
+SCN_0210,heavy_ns,71,56,20,10,none,none,8,55,15,NS Priority
+SCN_0211,emergency_ns,38,30,45,42,none,N,20,51,14,Emergency NS Green Wave
+SCN_0212,closure_ns,64,32,28,26,N,none,9,17,50,EW Corridor Priority
+SCN_0213,heavy_ns,106,63,29,20,none,none,7,54,15,NS Priority
+SCN_0214,heavy_ns,76,93,24,25,none,none,8,54,15,NS Priority
+SCN_0215,closure_ns,34,22,20,25,N,none,11,14,48,EW Corridor Priority
+SCN_0216,balanced,32,29,26,30,none,none,17,36,33,Balanced Timing
+SCN_0217,heavy_ns,105,74,26,17,none,none,13,55,15,NS Priority
+SCN_0218,emergency_ew,39,26,22,48,none,W,19,15,56,Emergency EW Green Wave
+SCN_0219,emergency_ns,49,33,26,36,none,N,20,52,15,Emergency NS Green Wave
+SCN_0220,balanced,30,39,42,36,none,none,11,32,37,Balanced Timing
+SCN_0221,emergency_ns,27,30,32,36,none,S,7,54,11,Emergency NS Green Wave
+SCN_0222,emergency_ew,30,32,44,20,none,W,11,16,56,Emergency EW Green Wave
+SCN_0223,balanced,26,39,28,29,none,none,22,37,32,Balanced Timing
+SCN_0224,emergency_ns,27,37,47,20,none,S,6,53,15,Emergency NS Green Wave
+SCN_0225,closure_ns,55,41,26,21,N,none,6,17,51,EW Corridor Priority
+SCN_0226,heavy_ew,10,17,70,32,none,none,17,15,55,EW Priority
+SCN_0227,heavy_ns,68,55,18,16,none,none,11,54,15,NS Priority
+SCN_0228,emergency_ew,31,27,27,37,none,W,14,16,56,Emergency EW Green Wave
+SCN_0229,emergency_ew,39,35,23,25,none,E,12,14,57,Emergency EW Green Wave
+SCN_0230,heavy_ns,101,63,20,27,none,none,14,54,15,NS Priority
+SCN_0231,emergency_ns,31,32,44,32,none,N,17,51,16,Emergency NS Green Wave
+SCN_0232,emergency_ns,27,48,42,40,none,N,9,54,18,Emergency NS Green Wave
+SCN_0233,heavy_ew,11,12,81,66,none,none,11,15,55,EW Priority
+SCN_0234,balanced,42,24,33,17,none,none,8,39,30,Balanced Timing
+SCN_0235,closure_ns,36,31,36,40,N,none,20,17,51,EW Corridor Priority
+SCN_0236,closure_ew,31,39,63,37,W,none,10,50,17,NS Corridor Priority
+SCN_0237,closure_ew,23,21,54,21,W,none,7,51,17,NS Corridor Priority
+SCN_0238,heavy_ns,62,94,27,17,none,none,17,54,15,NS Priority
+SCN_0239,closure_ns,64,45,27,23,N,none,20,16,49,EW Corridor Priority
+SCN_0240,closure_ns,76,33,43,26,S,none,14,17,46,EW Corridor Priority
+SCN_0241,emergency_ns,44,44,47,21,none,N,22,58,17,Emergency NS Green Wave
+SCN_0242,closure_ew,34,30,49,22,E,none,18,46,15,NS Corridor Priority
+SCN_0243,closure_ns,59,28,20,24,S,none,15,16,47,EW Corridor Priority
+SCN_0244,balanced,19,29,19,26,none,none,16,36,33,Balanced Timing
+SCN_0245,closure_ns,73,43,34,34,N,none,22,18,54,EW Corridor Priority
+SCN_0246,closure_ew,28,24,59,45,W,none,19,51,15,NS Corridor Priority
+SCN_0247,closure_ns,43,31,29,39,N,none,6,17,50,EW Corridor Priority
+SCN_0248,emergency_ew,37,42,31,25,none,E,20,16,52,Emergency EW Green Wave
+SCN_0249,heavy_ew,11,14,60,37,none,none,13,15,55,EW Priority
+SCN_0250,closure_ns,76,41,34,21,N,none,11,15,49,EW Corridor Priority
+SCN_0251,heavy_ew,19,17,106,69,none,none,22,15,55,EW Priority
+SCN_0252,balanced,41,22,39,28,none,none,17,33,36,Balanced Timing
+SCN_0253,closure_ew,38,35,53,40,E,none,6,51,18,NS Corridor Priority
+SCN_0254,emergency_ns,25,28,20,28,none,S,7,54,14,Emergency NS Green Wave
+SCN_0255,heavy_ns,93,87,23,13,none,none,9,55,15,NS Priority
+SCN_0256,emergency_ns,37,32,28,42,none,S,11,57,14,Emergency NS Green Wave
+SCN_0257,emergency_ns,40,34,20,31,none,N,12,57,18,Emergency NS Green Wave
+SCN_0258,heavy_ns,108,81,26,12,none,none,6,55,15,NS Priority
+SCN_0259,closure_ew,30,22,47,33,W,none,11,52,17,NS Corridor Priority
+SCN_0260,balanced,35,40,22,30,none,none,8,41,28,NS Priority
+SCN_0261,heavy_ew,21,14,88,55,none,none,11,15,55,EW Priority
+SCN_0262,balanced,19,16,30,19,none,none,17,29,40,EW Priority
+SCN_0263,emergency_ew,34,30,35,42,none,W,17,15,56,Emergency EW Green Wave
+SCN_0264,heavy_ns,104,70,20,25,none,none,16,55,15,NS Priority
+SCN_0265,emergency_ew,23,30,38,34,none,E,20,14,52,Emergency EW Green Wave
+SCN_0266,heavy_ns,73,53,25,29,none,none,7,49,21,NS Priority
+SCN_0267,emergency_ns,22,27,35,29,none,S,20,58,16,Emergency NS Green Wave
+SCN_0268,balanced,18,40,39,44,none,none,18,28,41,EW Priority
+SCN_0269,heavy_ns,90,93,19,16,none,none,12,55,15,NS Priority
+SCN_0270,closure_ns,78,29,29,43,N,none,12,15,51,EW Corridor Priority
+SCN_0271,emergency_ew,43,32,29,34,none,W,6,15,56,Emergency EW Green Wave
+SCN_0272,emergency_ns,28,34,29,43,none,S,14,57,14,Emergency NS Green Wave
+SCN_0273,balanced,18,32,38,33,none,none,10,28,41,EW Priority
+SCN_0274,closure_ew,44,37,58,23,W,none,12,49,14,NS Corridor Priority
+SCN_0275,closure_ns,64,31,21,20,N,none,20,15,49,EW Corridor Priority
+SCN_0276,closure_ns,57,26,30,29,N,none,20,17,47,EW Corridor Priority
+SCN_0277,balanced,17,21,35,32,none,none,7,25,44,EW Priority
+SCN_0278,heavy_ns,98,90,26,20,none,none,15,55,15,NS Priority
+SCN_0279,emergency_ew,23,45,25,29,none,E,19,15,55,Emergency EW Green Wave
+SCN_0280,closure_ew,20,23,42,28,E,none,13,47,14,NS Corridor Priority
+SCN_0281,balanced,18,27,31,42,none,none,12,26,43,EW Priority
+SCN_0282,heavy_ew,21,20,91,50,none,none,10,15,54,EW Priority
+SCN_0283,emergency_ns,22,41,31,48,none,S,13,52,14,Emergency NS Green Wave
+SCN_0284,heavy_ew,11,15,76,64,none,none,17,15,55,EW Priority
+SCN_0285,heavy_ew,15,21,95,34,none,none,13,15,54,EW Priority
+SCN_0286,closure_ns,45,29,44,42,N,none,20,14,52,EW Corridor Priority
+SCN_0287,closure_ew,22,35,69,32,W,none,13,48,17,NS Corridor Priority
+SCN_0288,emergency_ns,37,27,26,20,none,S,11,55,18,Emergency NS Green Wave
+SCN_0289,closure_ew,33,23,72,42,E,none,7,48,14,NS Corridor Priority
+SCN_0290,closure_ns,38,20,30,22,N,none,7,14,45,EW Corridor Priority
+SCN_0291,closure_ew,41,30,54,41,E,none,11,46,17,NS Corridor Priority
+SCN_0292,closure_ew,29,25,57,32,E,none,20,51,15,NS Corridor Priority
+SCN_0293,emergency_ns,22,35,26,39,none,S,19,53,16,Emergency NS Green Wave
+SCN_0294,heavy_ns,86,51,12,27,none,none,7,54,15,NS Priority
+SCN_0295,emergency_ns,21,44,48,41,none,N,15,56,12,Emergency NS Green Wave
+SCN_0296,balanced,30,36,28,43,none,none,19,33,36,Balanced Timing
+SCN_0297,closure_ew,28,25,64,32,E,none,8,48,15,NS Corridor Priority
+SCN_0298,heavy_ew,18,24,63,41,none,none,9,20,49,EW Priority
+SCN_0299,closure_ew,33,39,57,48,E,none,18,50,14,NS Corridor Priority
+SCN_0300,closure_ns,31,47,42,38,S,none,16,17,45,EW Corridor Priority
+SCN_0301,heavy_ew,18,11,70,60,none,none,15,15,55,EW Priority
+SCN_0302,emergency_ew,38,28,22,40,none,E,14,14,53,Emergency EW Green Wave
+SCN_0303,heavy_ns,75,65,10,13,none,none,12,55,15,NS Priority
+SCN_0304,closure_ew,36,24,78,47,W,none,12,51,13,NS Corridor Priority
+SCN_0305,closure_ew,37,24,91,49,E,none,11,47,18,NS Corridor Priority
+SCN_0306,heavy_ns,66,86,14,11,none,none,19,55,15,NS Priority
+SCN_0307,emergency_ns,40,29,42,45,none,N,11,55,13,Emergency NS Green Wave
+SCN_0308,closure_ns,47,24,32,23,N,none,18,13,48,EW Corridor Priority
+SCN_0309,heavy_ns,93,97,27,17,none,none,9,55,15,NS Priority
+SCN_0310,heavy_ns,88,78,15,19,none,none,14,55,15,NS Priority
+SCN_0311,closure_ns,78,28,36,43,N,none,15,17,47,EW Corridor Priority
+SCN_0312,closure_ew,20,29,89,45,E,none,21,51,14,NS Corridor Priority
+SCN_0313,closure_ew,21,27,61,27,E,none,16,50,15,NS Corridor Priority
+SCN_0314,emergency_ew,24,31,20,42,none,E,18,14,55,Emergency EW Green Wave
+SCN_0315,balanced,15,27,33,38,none,none,16,26,43,EW Priority
+SCN_0316,heavy_ns,64,69,17,23,none,none,22,53,16,NS Priority
+SCN_0317,closure_ew,34,38,46,38,W,none,16,49,15,NS Corridor Priority
+SCN_0318,closure_ns,61,27,29,25,S,none,10,16,48,EW Corridor Priority
+SCN_0319,balanced,22,39,23,16,none,none,13,42,27,NS Priority
+SCN_0320,emergency_ew,23,49,23,33,none,E,8,16,54,Emergency EW Green Wave
+SCN_0321,heavy_ew,21,20,99,31,none,none,9,16,53,EW Priority
+SCN_0322,emergency_ns,35,47,21,30,none,N,18,53,15,Emergency NS Green Wave
+SCN_0323,heavy_ns,84,99,29,29,none,none,19,53,16,NS Priority
+SCN_0324,closure_ns,75,36,43,40,S,none,17,17,48,EW Corridor Priority
+SCN_0325,emergency_ew,31,28,34,37,none,E,12,13,56,Emergency EW Green Wave
+SCN_0326,emergency_ns,27,33,26,42,none,S,13,52,15,Emergency NS Green Wave
+SCN_0327,emergency_ns,41,47,48,32,none,N,16,54,14,Emergency NS Green Wave
+SCN_0328,emergency_ew,42,43,31,32,none,E,20,17,54,Emergency EW Green Wave
+SCN_0329,balanced,36,33,37,43,none,none,8,32,37,Balanced Timing
+SCN_0330,emergency_ns,34,44,24,34,none,S,12,55,13,Emergency NS Green Wave
+SCN_0331,balanced,19,17,15,18,none,none,17,36,33,Balanced Timing
+SCN_0332,heavy_ns,93,92,19,23,none,none,15,55,15,NS Priority
+SCN_0333,emergency_ew,35,32,28,39,none,E,7,16,55,Emergency EW Green Wave
+SCN_0334,heavy_ew,10,23,73,63,none,none,17,15,55,EW Priority
+SCN_0335,closure_ns,60,42,25,43,S,none,16,14,50,EW Corridor Priority
+SCN_0336,emergency_ew,29,43,41,22,none,W,9,15,53,Emergency EW Green Wave
+SCN_0337,emergency_ns,40,29,25,33,none,N,13,57,14,Emergency NS Green Wave
+SCN_0338,closure_ew,26,23,68,33,E,none,22,48,16,NS Corridor Priority
+SCN_0339,heavy_ew,17,23,83,63,none,none,9,15,54,EW Priority
+SCN_0340,emergency_ns,33,38,41,43,none,N,22,57,14,Emergency NS Green Wave
+SCN_0341,emergency_ns,38,35,32,23,none,S,9,55,14,Emergency NS Green Wave
+SCN_0342,balanced,41,42,41,29,none,none,22,37,32,Balanced Timing
+SCN_0343,heavy_ns,92,66,15,13,none,none,18,55,15,NS Priority
+SCN_0344,closure_ew,34,25,86,33,E,none,21,51,17,NS Corridor Priority
+SCN_0345,heavy_ew,14,18,69,32,none,none,21,16,53,EW Priority
+SCN_0346,closure_ns,59,49,41,32,N,none,16,16,50,EW Corridor Priority
+SCN_0347,heavy_ns,94,95,28,14,none,none,15,55,15,NS Priority
+SCN_0348,closure_ns,78,40,29,24,S,none,10,17,52,EW Corridor Priority
+SCN_0349,emergency_ns,37,22,20,43,none,N,12,56,16,Emergency NS Green Wave
+SCN_0350,emergency_ns,31,47,44,39,none,S,19,55,15,Emergency NS Green Wave
+SCN_0351,emergency_ns,49,41,47,26,none,S,17,55,14,Emergency NS Green Wave
+SCN_0352,heavy_ew,15,24,101,54,none,none,21,15,55,EW Priority
+SCN_0353,closure_ns,38,32,23,43,S,none,11,16,49,EW Corridor Priority
+SCN_0354,heavy_ns,109,82,16,15,none,none,9,55,15,NS Priority
+SCN_0355,emergency_ew,43,30,39,43,none,W,20,16,55,Emergency EW Green Wave
+SCN_0356,heavy_ew,17,23,96,50,none,none,17,15,54,EW Priority
+SCN_0357,heavy_ew,12,16,85,66,none,none,10,15,55,EW Priority
+SCN_0358,balanced,39,43,23,15,none,none,17,47,22,NS Priority
+SCN_0359,heavy_ew,24,19,66,51,none,none,9,18,51,EW Priority
+SCN_0360,emergency_ew,43,48,48,21,none,E,6,16,50,Emergency EW Green Wave
+SCN_0361,emergency_ew,21,25,33,25,none,E,22,14,57,Emergency EW Green Wave
+SCN_0362,closure_ns,77,44,21,29,S,none,7,12,47,EW Corridor Priority
+SCN_0363,closure_ns,41,43,34,27,S,none,12,15,48,EW Corridor Priority
+SCN_0364,heavy_ns,91,56,29,13,none,none,22,54,15,NS Priority
+SCN_0365,emergency_ns,27,40,34,41,none,S,20,54,13,Emergency NS Green Wave
+SCN_0366,closure_ns,57,45,36,21,S,none,14,15,48,EW Corridor Priority
+SCN_0367,closure_ew,39,22,45,26,W,none,6,52,16,NS Corridor Priority
+SCN_0368,heavy_ew,12,14,70,41,none,none,16,15,55,EW Priority
+SCN_0369,heavy_ew,17,21,87,65,none,none,13,15,55,EW Priority
+SCN_0370,closure_ns,38,34,34,35,N,none,13,16,51,EW Corridor Priority
+SCN_0371,closure_ew,21,26,55,22,W,none,11,51,15,NS Corridor Priority
+SCN_0372,heavy_ns,97,82,10,17,none,none,13,55,15,NS Priority
+SCN_0373,closure_ns,66,23,25,33,N,none,21,16,52,EW Corridor Priority
+SCN_0374,balanced,37,35,35,44,none,none,18,33,36,Balanced Timing
+SCN_0375,closure_ns,57,25,42,24,S,none,7,17,55,EW Corridor Priority
+SCN_0376,balanced,40,44,44,19,none,none,7,40,30,Balanced Timing
+SCN_0377,heavy_ns,97,99,15,28,none,none,14,55,15,NS Priority
+SCN_0378,closure_ew,30,21,86,31,E,none,17,45,15,NS Corridor Priority
+SCN_0379,heavy_ew,21,21,89,55,none,none,8,15,54,EW Priority
+SCN_0380,closure_ns,64,39,21,28,N,none,6,14,51,EW Corridor Priority
+SCN_0381,heavy_ns,81,66,14,21,none,none,21,55,15,NS Priority
+SCN_0382,heavy_ns,86,84,10,29,none,none,20,55,15,NS Priority
+SCN_0383,closure_ns,31,22,27,43,S,none,21,15,51,EW Corridor Priority
+SCN_0384,emergency_ew,45,44,34,25,none,W,8,14,54,Emergency EW Green Wave
+SCN_0385,balanced,34,28,18,26,none,none,19,40,29,NS Priority
+SCN_0386,balanced,23,17,42,27,none,none,12,25,44,EW Priority
+SCN_0387,emergency_ew,46,46,42,46,none,W,6,14,53,Emergency EW Green Wave
+SCN_0388,emergency_ns,40,27,49,22,none,S,19,57,14,Emergency NS Green Wave
+SCN_0389,heavy_ns,84,89,23,15,none,none,22,55,15,NS Priority
+SCN_0390,emergency_ew,38,33,38,22,none,E,21,16,56,Emergency EW Green Wave
+SCN_0391,closure_ew,33,28,94,44,E,none,18,51,15,NS Corridor Priority
+SCN_0392,emergency_ns,48,23,27,36,none,N,11,51,14,Emergency NS Green Wave
+SCN_0393,heavy_ns,100,63,18,13,none,none,8,55,15,NS Priority
+SCN_0394,heavy_ns,87,57,11,18,none,none,9,55,15,NS Priority
+SCN_0395,closure_ns,70,43,42,35,S,none,19,17,48,EW Corridor Priority
+SCN_0396,emergency_ns,30,33,37,40,none,N,17,53,15,Emergency NS Green Wave
+SCN_0397,closure_ew,31,20,92,48,E,none,10,48,16,NS Corridor Priority
+SCN_0398,heavy_ns,93,73,10,17,none,none,22,55,15,NS Priority
+SCN_0399,closure_ns,41,41,31,33,S,none,20,16,52,EW Corridor Priority
+SCN_0400,heavy_ew,14,12,97,49,none,none,13,15,55,EW Priority
+SCN_0401,balanced,37,21,42,42,none,none,9,28,41,EW Priority
+SCN_0402,closure_ew,22,41,83,21,E,none,17,49,13,NS Corridor Priority
+SCN_0403,balanced,22,37,20,20,none,none,6,41,28,NS Priority
+SCN_0404,emergency_ns,31,25,45,46,none,N,22,54,13,Emergency NS Green Wave
+SCN_0405,balanced,31,17,22,28,none,none,18,34,35,Balanced Timing
+SCN_0406,heavy_ns,104,69,26,22,none,none,21,54,15,NS Priority
+SCN_0407,closure_ns,75,36,27,30,N,none,11,15,51,EW Corridor Priority
+SCN_0408,emergency_ew,49,29,30,41,none,W,22,14,56,Emergency EW Green Wave
+SCN_0409,closure_ns,46,43,40,38,N,none,22,16,51,EW Corridor Priority
+SCN_0410,emergency_ew,30,33,38,30,none,W,18,14,53,Emergency EW Green Wave
+SCN_0411,balanced,26,33,26,22,none,none,13,38,31,Balanced Timing
+SCN_0412,closure_ns,77,20,32,26,S,none,18,17,51,EW Corridor Priority
+SCN_0413,balanced,34,32,32,16,none,none,20,40,29,NS Priority
+SCN_0414,closure_ew,23,37,76,38,E,none,6,52,19,NS Corridor Priority
+SCN_0415,balanced,26,40,33,29,none,none,6,36,33,Balanced Timing
+SCN_0416,balanced,16,43,23,24,none,none,12,38,31,Balanced Timing
+SCN_0417,heavy_ew,22,19,73,47,none,none,16,17,52,EW Priority
+SCN_0418,heavy_ns,98,77,12,29,none,none,14,55,15,NS Priority
+SCN_0419,emergency_ns,25,22,35,49,none,N,7,51,14,Emergency NS Green Wave
+SCN_0420,balanced,29,40,19,35,none,none,18,39,30,Balanced Timing
+SCN_0421,emergency_ns,44,42,43,44,none,N,22,54,14,Emergency NS Green Wave
+SCN_0422,heavy_ns,94,94,18,15,none,none,9,55,15,NS Priority
+SCN_0423,heavy_ew,11,12,62,57,none,none,17,15,55,EW Priority
+SCN_0424,closure_ew,42,27,50,35,E,none,20,49,15,NS Corridor Priority
+SCN_0425,emergency_ew,47,24,26,23,none,W,7,14,55,Emergency EW Green Wave
+SCN_0426,heavy_ew,20,24,90,56,none,none,8,16,53,EW Priority
+SCN_0427,emergency_ns,36,25,24,27,none,N,16,52,14,Emergency NS Green Wave
+SCN_0428,closure_ew,23,36,84,37,E,none,11,49,15,NS Corridor Priority
+SCN_0429,heavy_ns,70,94,13,23,none,none,8,55,15,NS Priority
+SCN_0430,emergency_ns,46,29,38,37,none,S,16,53,14,Emergency NS Green Wave
+SCN_0431,closure_ns,66,29,24,22,N,none,15,16,51,EW Corridor Priority
+SCN_0432,closure_ew,32,34,91,36,E,none,14,46,14,NS Corridor Priority
+SCN_0433,closure_ew,28,36,52,21,E,none,10,48,14,NS Corridor Priority
+SCN_0434,emergency_ew,21,32,38,45,none,W,8,14,54,Emergency EW Green Wave
+SCN_0435,closure_ew,26,23,90,20,E,none,17,47,16,NS Corridor Priority
+SCN_0436,heavy_ns,106,83,20,13,none,none,18,55,15,NS Priority
+SCN_0437,heavy_ns,94,67,17,28,none,none,22,54,15,NS Priority
+SCN_0438,closure_ns,37,47,24,36,N,none,12,16,50,EW Corridor Priority
+SCN_0439,emergency_ew,41,32,34,31,none,E,7,13,55,Emergency EW Green Wave
+SCN_0440,closure_ew,31,25,56,38,W,none,14,50,15,NS Corridor Priority
+SCN_0441,closure_ew,42,23,77,30,E,none,11,51,14,NS Corridor Priority
+SCN_0442,emergency_ew,44,38,37,36,none,W,16,16,54,Emergency EW Green Wave
+SCN_0443,emergency_ew,26,32,22,35,none,W,20,13,53,Emergency EW Green Wave
+SCN_0444,emergency_ew,46,24,32,34,none,E,11,15,55,Emergency EW Green Wave
+SCN_0445,heavy_ew,12,15,69,50,none,none,16,15,55,EW Priority
+SCN_0446,closure_ew,43,22,69,44,E,none,7,49,15,NS Corridor Priority
+SCN_0447,closure_ns,66,32,27,27,N,none,6,17,52,EW Corridor Priority
+SCN_0448,emergency_ew,22,21,27,42,none,W,6,13,54,Emergency EW Green Wave
+SCN_0449,closure_ew,22,27,42,33,E,none,11,46,16,NS Corridor Priority
+SCN_0450,balanced,24,42,30,20,none,none,7,39,30,Balanced Timing
+SCN_0451,closure_ew,32,43,86,47,W,none,7,49,17,NS Corridor Priority
+SCN_0452,emergency_ew,49,42,46,41,none,W,19,14,50,Emergency EW Green Wave
+SCN_0453,balanced,23,44,35,27,none,none,22,36,33,Balanced Timing
+SCN_0454,closure_ns,52,49,29,29,N,none,22,16,52,EW Corridor Priority
+SCN_0455,closure_ew,33,39,92,43,W,none,19,51,13,NS Corridor Priority
+SCN_0456,closure_ew,42,27,57,31,E,none,18,46,15,NS Corridor Priority
+SCN_0457,heavy_ew,24,20,100,41,none,none,7,16,53,EW Priority
+SCN_0458,balanced,39,31,40,43,none,none,20,32,37,Balanced Timing
+SCN_0459,heavy_ew,10,16,83,37,none,none,11,15,55,EW Priority
+SCN_0460,balanced,19,26,39,43,none,none,11,24,45,EW Priority
+SCN_0461,closure_ew,20,30,58,28,E,none,16,49,17,NS Corridor Priority
+SCN_0462,closure_ew,32,38,88,25,E,none,20,50,15,NS Corridor Priority
+SCN_0463,closure_ns,52,45,20,44,S,none,22,16,48,EW Corridor Priority
+SCN_0464,closure_ns,53,31,30,36,N,none,10,16,50,EW Corridor Priority
+SCN_0465,balanced,19,24,31,19,none,none,17,32,37,Balanced Timing
+SCN_0466,emergency_ns,47,28,22,34,none,N,21,55,13,Emergency NS Green Wave
+SCN_0467,heavy_ns,100,56,18,22,none,none,17,55,15,NS Priority
+SCN_0468,heavy_ew,22,13,90,31,none,none,10,15,54,EW Priority
+SCN_0469,balanced,20,25,36,38,none,none,14,26,43,EW Priority
+SCN_0470,emergency_ns,32,42,32,32,none,S,6,53,14,Emergency NS Green Wave
+SCN_0471,emergency_ew,22,47,25,31,none,W,9,15,54,Emergency EW Green Wave
+SCN_0472,emergency_ns,40,47,30,22,none,S,6,57,15,Emergency NS Green Wave
+SCN_0473,emergency_ns,31,34,40,29,none,N,15,54,13,Emergency NS Green Wave
+SCN_0474,balanced,29,20,31,26,none,none,8,32,37,Balanced Timing
+SCN_0475,emergency_ns,23,45,47,45,none,N,16,52,16,Emergency NS Green Wave
+SCN_0476,closure_ew,36,27,67,45,E,none,21,50,17,NS Corridor Priority
+SCN_0477,heavy_ew,23,18,93,66,none,none,20,15,55,EW Priority
+SCN_0478,emergency_ns,40,44,20,42,none,S,12,50,15,Emergency NS Green Wave
+SCN_0479,emergency_ns,35,30,40,23,none,S,17,57,15,Emergency NS Green Wave
+SCN_0480,heavy_ns,91,60,17,10,none,none,14,55,15,NS Priority
+SCN_0481,emergency_ew,41,46,23,27,none,E,13,14,51,Emergency EW Green Wave
+SCN_0482,emergency_ew,23,45,27,28,none,W,17,15,51,Emergency EW Green Wave
+SCN_0483,closure_ew,41,28,56,46,E,none,16,51,18,NS Corridor Priority
+SCN_0484,balanced,41,27,33,25,none,none,15,37,32,Balanced Timing
+SCN_0485,closure_ns,33,34,30,30,S,none,13,17,48,EW Corridor Priority
+SCN_0486,balanced,23,28,32,40,none,none,20,29,40,EW Priority
+SCN_0487,balanced,34,34,23,25,none,none,10,41,28,NS Priority
+SCN_0488,emergency_ns,25,46,21,34,none,S,6,55,14,Emergency NS Green Wave
+SCN_0489,emergency_ns,25,49,41,49,none,S,10,59,12,Emergency NS Green Wave
+SCN_0490,closure_ns,35,48,27,31,S,none,8,16,51,EW Corridor Priority
+SCN_0491,balanced,25,27,32,25,none,none,21,33,36,Balanced Timing
+SCN_0492,emergency_ew,28,35,23,22,none,W,17,11,54,Emergency EW Green Wave
+SCN_0493,heavy_ns,70,86,27,28,none,none,17,51,18,NS Priority
+SCN_0494,emergency_ew,37,45,25,23,none,W,11,15,56,Emergency EW Green Wave
+SCN_0495,closure_ns,72,30,40,35,N,none,7,15,47,EW Corridor Priority
+SCN_0496,closure_ew,20,30,78,36,W,none,20,50,14,NS Corridor Priority
+SCN_0497,emergency_ns,24,29,23,24,none,N,17,56,11,Emergency NS Green Wave
+SCN_0498,emergency_ew,43,29,47,27,none,E,16,15,56,Emergency EW Green Wave
+SCN_0499,heavy_ns,86,78,12,21,none,none,10,55,15,NS Priority
+SCN_0500,closure_ns,65,28,41,43,S,none,18,21,47,EW Corridor Priority
+SCN_0501,emergency_ew,39,39,40,49,none,E,22,12,57,Emergency EW Green Wave
+SCN_0502,heavy_ew,13,22,79,56,none,none,18,15,55,EW Priority
+SCN_0503,heavy_ew,10,11,60,55,none,none,9,15,55,EW Priority
+SCN_0504,closure_ns,40,28,28,24,N,none,15,15,51,EW Corridor Priority
+SCN_0505,closure_ns,40,43,38,40,N,none,9,18,50,EW Corridor Priority
+SCN_0506,heavy_ns,66,96,16,17,none,none,18,55,15,NS Priority
+SCN_0507,closure_ns,52,29,39,34,S,none,19,13,50,EW Corridor Priority
+SCN_0508,balanced,33,30,21,28,none,none,21,39,30,Balanced Timing
+SCN_0509,closure_ew,23,34,74,24,E,none,19,48,15,NS Corridor Priority
+SCN_0510,heavy_ns,95,83,19,13,none,none,13,55,15,NS Priority
+SCN_0511,heavy_ns,108,72,29,22,none,none,7,54,15,NS Priority
+SCN_0512,closure_ns,35,24,44,29,N,none,14,15,48,EW Corridor Priority
+SCN_0513,closure_ns,51,34,23,31,S,none,8,17,47,EW Corridor Priority
+SCN_0514,emergency_ew,32,42,45,37,none,E,14,13,53,Emergency EW Green Wave
+SCN_0515,balanced,41,29,36,18,none,none,21,39,30,Balanced Timing
+SCN_0516,emergency_ew,41,40,41,40,none,W,21,14,52,Emergency EW Green Wave
+SCN_0517,emergency_ew,46,21,49,28,none,W,15,16,52,Emergency EW Green Wave
+SCN_0518,emergency_ns,35,39,34,44,none,S,22,55,13,Emergency NS Green Wave
+SCN_0519,balanced,39,33,18,31,none,none,6,41,28,NS Priority
+SCN_0520,balanced,22,29,21,41,none,none,7,31,38,Balanced Timing
+SCN_0521,emergency_ns,42,45,26,48,none,N,6,54,16,Emergency NS Green Wave
+SCN_0522,heavy_ns,88,58,22,15,none,none,14,55,15,NS Priority
+SCN_0523,emergency_ns,36,31,35,34,none,N,8,58,11,Emergency NS Green Wave
+SCN_0524,balanced,40,29,18,18,none,none,8,46,24,NS Priority
+SCN_0525,heavy_ew,12,20,94,69,none,none,22,15,55,EW Priority
+SCN_0526,emergency_ns,21,48,42,23,none,S,6,55,19,Emergency NS Green Wave
+SCN_0527,emergency_ns,27,38,40,20,none,N,6,54,12,Emergency NS Green Wave
+SCN_0528,closure_ns,64,38,31,35,S,none,21,15,48,EW Corridor Priority
+SCN_0529,emergency_ew,41,38,44,24,none,W,7,14,54,Emergency EW Green Wave
+SCN_0530,emergency_ew,35,42,38,38,none,W,8,15,53,Emergency EW Green Wave
+SCN_0531,emergency_ns,46,31,36,25,none,N,16,57,13,Emergency NS Green Wave
+SCN_0532,emergency_ns,43,46,20,49,none,S,10,54,14,Emergency NS Green Wave
+SCN_0533,emergency_ns,21,49,34,26,none,N,10,55,15,Emergency NS Green Wave
+SCN_0534,emergency_ns,42,33,42,38,none,N,12,55,17,Emergency NS Green Wave
+SCN_0535,closure_ew,44,27,65,49,E,none,15,47,16,NS Corridor Priority
+SCN_0536,emergency_ns,49,28,24,37,none,S,10,53,17,Emergency NS Green Wave
+SCN_0537,heavy_ns,71,56,12,19,none,none,22,55,15,NS Priority
+SCN_0538,heavy_ew,11,21,83,39,none,none,8,15,55,EW Priority
+SCN_0539,emergency_ns,26,46,48,34,none,N,16,54,15,Emergency NS Green Wave
+SCN_0540,emergency_ns,39,22,34,21,none,N,17,57,16,Emergency NS Green Wave
+SCN_0541,emergency_ns,23,46,47,21,none,N,14,54,15,Emergency NS Green Wave
+SCN_0542,emergency_ns,49,44,32,47,none,S,9,52,17,Emergency NS Green Wave
+SCN_0543,emergency_ew,23,38,20,29,none,E,22,16,54,Emergency EW Green Wave
+SCN_0544,heavy_ew,15,10,69,56,none,none,11,15,55,EW Priority
+SCN_0545,emergency_ns,46,40,44,47,none,S,8,55,15,Emergency NS Green Wave
+SCN_0546,heavy_ns,86,75,28,26,none,none,14,52,17,NS Priority
+SCN_0547,heavy_ns,101,99,29,22,none,none,14,55,15,NS Priority
+SCN_0548,emergency_ew,42,34,39,34,none,E,22,14,54,Emergency EW Green Wave
+SCN_0549,emergency_ns,35,21,27,30,none,N,10,58,14,Emergency NS Green Wave
+SCN_0550,heavy_ew,20,11,89,39,none,none,6,15,55,EW Priority
+SCN_0551,heavy_ew,24,12,95,42,none,none,11,15,55,EW Priority
+SCN_0552,emergency_ns,25,20,42,43,none,S,8,54,17,Emergency NS Green Wave
+SCN_0553,closure_ns,54,26,36,20,N,none,11,16,51,EW Corridor Priority
+SCN_0554,heavy_ns,102,87,17,13,none,none,7,55,15,NS Priority
+SCN_0555,heavy_ew,14,24,87,47,none,none,16,15,54,EW Priority
+SCN_0556,heavy_ew,19,18,72,33,none,none,16,18,51,EW Priority
+SCN_0557,emergency_ns,30,41,43,23,none,N,12,53,13,Emergency NS Green Wave
+SCN_0558,heavy_ns,97,99,10,15,none,none,19,55,15,NS Priority
+SCN_0559,emergency_ns,24,36,29,47,none,N,21,56,15,Emergency NS Green Wave
+SCN_0560,closure_ns,48,22,23,24,S,none,20,18,46,EW Corridor Priority
+SCN_0561,balanced,37,28,37,19,none,none,18,37,32,Balanced Timing
+SCN_0562,closure_ew,36,29,78,35,W,none,19,52,12,NS Corridor Priority
+SCN_0563,heavy_ns,81,90,14,19,none,none,12,55,15,NS Priority
+SCN_0564,emergency_ew,42,35,22,49,none,W,22,18,52,Emergency EW Green Wave
+SCN_0565,closure_ns,52,32,33,39,N,none,20,15,49,EW Corridor Priority
+SCN_0566,balanced,35,16,19,20,none,none,13,39,30,Balanced Timing
+SCN_0567,closure_ew,36,30,71,29,W,none,6,52,18,NS Corridor Priority
+SCN_0568,heavy_ew,19,21,70,43,none,none,14,18,51,EW Priority
+SCN_0569,emergency_ew,38,41,34,49,none,W,20,15,55,Emergency EW Green Wave
+SCN_0570,closure_ns,62,49,20,38,N,none,14,14,53,EW Corridor Priority
+SCN_0571,heavy_ew,22,11,93,42,none,none,6,15,55,EW Priority
+SCN_0572,emergency_ns,48,35,34,32,none,S,6,54,17,Emergency NS Green Wave
+SCN_0573,closure_ns,53,45,36,26,S,none,12,16,49,EW Corridor Priority
+SCN_0574,heavy_ns,108,88,10,26,none,none,12,55,15,NS Priority
+SCN_0575,emergency_ns,44,46,48,22,none,N,22,59,16,Emergency NS Green Wave
+SCN_0576,heavy_ew,18,15,87,38,none,none,21,15,55,EW Priority
+SCN_0577,balanced,23,33,26,33,none,none,21,34,35,Balanced Timing
+SCN_0578,emergency_ns,33,48,38,38,none,N,14,53,14,Emergency NS Green Wave
+SCN_0579,emergency_ns,38,35,21,27,none,S,13,54,16,Emergency NS Green Wave
+SCN_0580,balanced,18,29,42,34,none,none,13,26,43,EW Priority
+SCN_0581,balanced,27,32,16,27,none,none,22,40,29,NS Priority
+SCN_0582,closure_ns,58,46,29,22,S,none,20,15,47,EW Corridor Priority
+SCN_0583,heavy_ns,70,80,20,20,none,none,9,55,15,NS Priority
+SCN_0584,heavy_ew,18,21,90,63,none,none,22,15,55,EW Priority
+SCN_0585,closure_ns,54,23,27,28,S,none,20,18,50,EW Corridor Priority
+SCN_0586,closure_ns,46,22,24,38,S,none,12,18,51,EW Corridor Priority
+SCN_0587,emergency_ew,47,25,48,45,none,E,14,15,55,Emergency EW Green Wave
+SCN_0588,heavy_ns,101,86,19,21,none,none,9,55,15,NS Priority
+SCN_0589,heavy_ew,20,15,75,37,none,none,18,16,53,EW Priority
+SCN_0590,heavy_ns,104,51,21,19,none,none,13,55,15,NS Priority
+SCN_0591,closure_ew,35,36,65,21,E,none,16,49,14,NS Corridor Priority
+SCN_0592,emergency_ew,49,25,44,34,none,W,22,16,56,Emergency EW Green Wave
+SCN_0593,closure_ns,74,47,40,33,S,none,6,16,47,EW Corridor Priority
+SCN_0594,emergency_ns,40,34,34,23,none,N,15,55,14,Emergency NS Green Wave
+SCN_0595,closure_ew,31,20,67,27,W,none,10,50,13,NS Corridor Priority
+SCN_0596,emergency_ns,44,43,33,46,none,S,21,58,15,Emergency NS Green Wave
+SCN_0597,emergency_ew,25,37,21,27,none,E,13,15,51,Emergency EW Green Wave
+SCN_0598,emergency_ns,39,31,30,48,none,N,21,56,15,Emergency NS Green Wave
+SCN_0599,heavy_ew,22,20,94,60,none,none,8,15,55,EW Priority
+SCN_0600,emergency_ew,32,36,22,39,none,E,21,14,54,Emergency EW Green Wave
+SCN_0601,closure_ew,22,41,77,33,E,none,21,50,16,NS Corridor Priority
+SCN_0602,closure_ew,30,22,42,35,W,none,20,46,13,NS Corridor Priority
+SCN_0603,heavy_ns,88,68,20,11,none,none,9,55,15,NS Priority
+SCN_0604,heavy_ew,18,13,107,48,none,none,16,15,55,EW Priority
+SCN_0605,emergency_ew,21,42,47,24,none,W,16,14,59,Emergency EW Green Wave
+SCN_0606,closure_ns,33,41,36,29,S,none,17,17,53,EW Corridor Priority
+SCN_0607,heavy_ns,77,76,27,20,none,none,16,53,16,NS Priority
+SCN_0608,closure_ns,52,28,44,28,N,none,17,16,48,EW Corridor Priority
+SCN_0609,balanced,18,15,29,22,none,none,12,27,42,EW Priority
+SCN_0610,closure_ew,33,33,89,39,E,none,20,49,14,NS Corridor Priority
+SCN_0611,emergency_ns,47,43,45,49,none,N,11,55,16,Emergency NS Green Wave
+SCN_0612,balanced,16,18,36,40,none,none,11,21,48,EW Priority
+SCN_0613,heavy_ns,103,89,20,29,none,none,13,55,15,NS Priority
+SCN_0614,closure_ns,59,36,39,39,S,none,13,17,47,EW Corridor Priority
+SCN_0615,heavy_ns,75,94,24,25,none,none,12,54,15,NS Priority
+SCN_0616,heavy_ns,94,69,14,19,none,none,14,55,15,NS Priority
+SCN_0617,balanced,37,39,22,29,none,none,20,41,28,NS Priority
+SCN_0618,emergency_ew,47,26,40,42,none,W,19,17,52,Emergency EW Green Wave
+SCN_0619,heavy_ew,20,11,109,36,none,none,19,15,55,EW Priority
+SCN_0620,closure_ew,39,37,77,43,E,none,7,46,15,NS Corridor Priority
+SCN_0621,heavy_ns,67,78,19,16,none,none,19,55,15,NS Priority
+SCN_0622,closure_ew,32,23,76,45,W,none,22,49,16,NS Corridor Priority
+SCN_0623,emergency_ns,42,30,47,33,none,N,7,54,15,Emergency NS Green Wave
+SCN_0624,emergency_ns,33,43,22,31,none,S,15,54,12,Emergency NS Green Wave
+SCN_0625,balanced,37,24,39,37,none,none,6,31,38,Balanced Timing
+SCN_0626,heavy_ew,18,15,72,54,none,none,7,15,55,EW Priority
+SCN_0627,heavy_ew,17,10,74,44,none,none,17,15,55,EW Priority
+SCN_0628,emergency_ew,36,28,27,39,none,E,12,15,54,Emergency EW Green Wave
+SCN_0629,closure_ns,41,31,25,38,N,none,21,14,50,EW Corridor Priority
+SCN_0630,heavy_ew,16,16,63,54,none,none,21,15,54,EW Priority
+SCN_0631,emergency_ns,32,36,36,24,none,N,13,58,15,Emergency NS Green Wave
+SCN_0632,closure_ew,41,23,78,27,E,none,19,52,14,NS Corridor Priority
+SCN_0633,emergency_ns,47,40,49,22,none,S,11,53,14,Emergency NS Green Wave
+SCN_0634,heavy_ew,15,22,97,37,none,none,21,15,54,EW Priority
+SCN_0635,emergency_ew,44,25,33,22,none,W,13,16,53,Emergency EW Green Wave
+SCN_0636,closure_ns,54,28,40,39,S,none,10,14,48,EW Corridor Priority
+SCN_0637,closure_ns,71,37,36,39,N,none,18,14,48,EW Corridor Priority
+SCN_0638,closure_ew,34,32,56,43,E,none,6,51,15,NS Corridor Priority
+SCN_0639,closure_ns,37,46,34,32,S,none,19,12,45,EW Corridor Priority
+SCN_0640,balanced,37,16,36,32,none,none,21,30,39,Balanced Timing
+SCN_0641,emergency_ew,26,32,37,48,none,W,22,14,58,Emergency EW Green Wave
+SCN_0642,heavy_ns,76,89,28,29,none,none,21,52,17,NS Priority
+SCN_0643,emergency_ew,29,31,40,42,none,W,14,12,56,Emergency EW Green Wave
+SCN_0644,balanced,36,29,15,26,none,none,14,42,27,NS Priority
+SCN_0645,heavy_ns,93,65,18,24,none,none,16,55,15,NS Priority
+SCN_0646,closure_ew,33,44,47,27,E,none,6,50,16,NS Corridor Priority
+SCN_0647,heavy_ns,101,60,16,20,none,none,13,55,15,NS Priority
+SCN_0648,emergency_ew,45,48,40,40,none,E,22,12,52,Emergency EW Green Wave
+SCN_0649,closure_ns,78,22,38,30,N,none,13,14,47,EW Corridor Priority
+SCN_0650,heavy_ew,12,16,87,46,none,none,13,15,55,EW Priority
+SCN_0651,emergency_ns,21,25,42,24,none,S,11,55,15,Emergency NS Green Wave
+SCN_0652,heavy_ew,20,13,72,61,none,none,22,15,55,EW Priority
+SCN_0653,balanced,18,37,42,28,none,none,14,30,39,Balanced Timing
+SCN_0654,heavy_ns,105,89,10,19,none,none,8,55,15,NS Priority
+SCN_0655,heavy_ew,17,10,71,37,none,none,21,15,55,EW Priority
+SCN_0656,heavy_ew,15,21,86,38,none,none,9,15,54,EW Priority
+SCN_0657,emergency_ew,31,43,42,33,none,W,21,16,54,Emergency EW Green Wave
+SCN_0658,heavy_ns,68,75,29,17,none,none,15,52,17,NS Priority
+SCN_0659,heavy_ew,17,14,62,56,none,none,8,15,55,EW Priority
+SCN_0660,balanced,17,26,23,35,none,none,20,29,40,EW Priority
+SCN_0661,closure_ew,42,37,59,31,W,none,20,49,16,NS Corridor Priority
+SCN_0662,emergency_ew,41,44,21,49,none,E,21,15,56,Emergency EW Green Wave
+SCN_0663,closure_ew,41,40,72,39,W,none,22,49,13,NS Corridor Priority
+SCN_0664,heavy_ew,13,24,105,54,none,none,19,15,55,EW Priority
+SCN_0665,closure_ns,78,30,35,31,S,none,10,17,52,EW Corridor Priority
+SCN_0666,heavy_ew,15,17,82,32,none,none,8,15,54,EW Priority
+SCN_0667,heavy_ew,18,13,108,37,none,none,15,15,55,EW Priority
+SCN_0668,emergency_ew,24,45,32,40,none,E,16,13,54,Emergency EW Green Wave
+SCN_0669,closure_ns,34,28,35,21,N,none,11,16,54,EW Corridor Priority
+SCN_0670,closure_ew,32,27,93,47,W,none,12,49,16,NS Corridor Priority
+SCN_0671,emergency_ew,39,44,31,20,none,E,7,12,54,Emergency EW Green Wave
+SCN_0672,emergency_ew,44,29,41,29,none,E,6,15,55,Emergency EW Green Wave
+SCN_0673,emergency_ns,35,27,49,34,none,N,8,55,14,Emergency NS Green Wave
+SCN_0674,closure_ns,46,35,33,32,S,none,22,15,51,EW Corridor Priority
+SCN_0675,emergency_ew,34,41,48,46,none,E,13,13,56,Emergency EW Green Wave
+SCN_0676,heavy_ns,64,71,26,11,none,none,11,54,15,NS Priority
+SCN_0677,heavy_ew,14,19,79,35,none,none,20,15,54,EW Priority
+SCN_0678,emergency_ns,44,33,33,32,none,N,9,53,13,Emergency NS Green Wave
+SCN_0679,emergency_ew,31,22,36,22,none,E,16,16,50,Emergency EW Green Wave
+SCN_0680,heavy_ew,21,17,83,46,none,none,21,15,54,EW Priority
+SCN_0681,emergency_ew,20,22,23,32,none,W,16,18,58,Emergency EW Green Wave
+SCN_0682,closure_ns,76,49,23,27,N,none,21,16,49,EW Corridor Priority
+SCN_0683,emergency_ns,45,47,32,21,none,N,9,51,15,Emergency NS Green Wave
+SCN_0684,emergency_ew,28,26,32,21,none,E,16,15,56,Emergency EW Green Wave
+SCN_0685,balanced,17,44,24,20,none,none,21,40,29,NS Priority
+SCN_0686,heavy_ew,14,22,98,63,none,none,10,15,55,EW Priority
+SCN_0687,heavy_ns,82,54,15,23,none,none,18,54,15,NS Priority
+SCN_0688,closure_ew,42,25,71,29,E,none,9,49,17,NS Corridor Priority
+SCN_0689,balanced,24,34,20,30,none,none,10,37,32,Balanced Timing
+SCN_0690,heavy_ns,101,60,20,26,none,none,8,54,15,NS Priority
+SCN_0691,closure_ew,28,38,44,41,E,none,9,49,17,NS Corridor Priority
+SCN_0692,balanced,37,25,27,41,none,none,21,33,36,Balanced Timing
+SCN_0693,heavy_ew,18,21,71,52,none,none,8,16,53,EW Priority
+SCN_0694,emergency_ns,36,46,28,28,none,S,6,55,13,Emergency NS Green Wave
+SCN_0695,emergency_ew,39,42,49,44,none,E,10,14,54,Emergency EW Green Wave
+SCN_0696,emergency_ew,29,44,33,45,none,W,15,16,53,Emergency EW Green Wave
+SCN_0697,balanced,17,34,30,16,none,none,19,36,33,Balanced Timing
+SCN_0698,heavy_ew,20,20,80,50,none,none,8,16,53,EW Priority
+SCN_0699,emergency_ns,42,36,49,21,none,N,18,54,16,Emergency NS Green Wave
+SCN_0700,emergency_ns,36,38,37,22,none,S,16,55,14,Emergency NS Green Wave
+SCN_0701,emergency_ns,34,34,35,29,none,N,17,51,17,Emergency NS Green Wave
+SCN_0702,emergency_ew,46,46,46,34,none,W,7,15,54,Emergency EW Green Wave
+SCN_0703,emergency_ew,27,47,31,32,none,E,19,15,55,Emergency EW Green Wave
+SCN_0704,closure_ns,65,40,27,24,S,none,22,16,48,EW Corridor Priority
+SCN_0705,closure_ns,39,26,32,39,S,none,21,11,49,EW Corridor Priority
+SCN_0706,heavy_ns,95,96,23,29,none,none,20,55,15,NS Priority
+SCN_0707,heavy_ns,101,70,14,29,none,none,18,55,15,NS Priority
+SCN_0708,closure_ns,65,21,41,35,N,none,11,16,49,EW Corridor Priority
+SCN_0709,emergency_ns,42,21,32,30,none,N,18,52,16,Emergency NS Green Wave
+SCN_0710,emergency_ns,28,26,38,38,none,S,20,56,15,Emergency NS Green Wave
+SCN_0711,emergency_ew,23,37,37,24,none,W,14,15,53,Emergency EW Green Wave
+SCN_0712,closure_ns,73,21,32,29,N,none,9,16,44,EW Corridor Priority
+SCN_0713,closure_ew,22,44,60,48,W,none,15,49,18,NS Corridor Priority
+SCN_0714,heavy_ew,11,21,83,46,none,none,7,15,55,EW Priority
+SCN_0715,emergency_ns,30,43,20,30,none,N,12,57,15,Emergency NS Green Wave
+SCN_0716,heavy_ew,11,21,90,46,none,none,20,15,55,EW Priority
+SCN_0717,balanced,42,15,29,42,none,none,16,31,38,Balanced Timing
+SCN_0718,closure_ns,31,29,43,23,N,none,15,15,51,EW Corridor Priority
+SCN_0719,heavy_ew,15,11,108,45,none,none,22,15,55,EW Priority
+SCN_0720,heavy_ew,21,18,91,39,none,none,11,16,53,EW Priority
+SCN_0721,closure_ew,20,32,80,41,W,none,15,50,14,NS Corridor Priority
+SCN_0722,closure_ew,28,35,73,45,E,none,16,46,18,NS Corridor Priority
+SCN_0723,balanced,40,23,24,39,none,none,17,35,35,Balanced Timing
+SCN_0724,heavy_ew,13,16,61,30,none,none,21,16,53,EW Priority
+SCN_0725,heavy_ns,83,76,11,23,none,none,9,55,15,NS Priority
+SCN_0726,heavy_ew,21,14,87,49,none,none,20,15,55,EW Priority
+SCN_0727,closure_ns,50,29,33,33,S,none,12,16,50,EW Corridor Priority
+SCN_0728,emergency_ns,32,23,41,33,none,S,11,51,16,Emergency NS Green Wave
+SCN_0729,closure_ns,47,25,22,42,S,none,9,16,47,EW Corridor Priority
+SCN_0730,heavy_ns,98,80,23,15,none,none,19,55,15,NS Priority
+SCN_0731,closure_ew,32,42,53,48,E,none,21,48,15,NS Corridor Priority
+SCN_0732,closure_ew,41,34,83,21,E,none,22,51,15,NS Corridor Priority
+SCN_0733,emergency_ew,46,33,34,30,none,W,13,13,53,Emergency EW Green Wave
+SCN_0734,emergency_ns,46,39,22,24,none,N,13,53,15,Emergency NS Green Wave
+SCN_0735,balanced,27,19,42,41,none,none,7,24,45,EW Priority
+SCN_0736,balanced,37,15,34,26,none,none,13,32,37,Balanced Timing
+SCN_0737,emergency_ew,34,41,43,30,none,E,16,16,55,Emergency EW Green Wave
+SCN_0738,heavy_ns,62,50,24,10,none,none,19,53,16,NS Priority
+SCN_0739,balanced,43,34,20,22,none,none,7,45,24,NS Priority
+SCN_0740,closure_ns,62,22,22,24,N,none,21,18,51,EW Corridor Priority
+SCN_0741,closure_ns,33,38,41,38,N,none,14,17,52,EW Corridor Priority
+SCN_0742,closure_ns,51,47,39,34,S,none,18,17,50,EW Corridor Priority
+SCN_0743,heavy_ns,67,91,25,28,none,none,13,52,17,NS Priority
+SCN_0744,heavy_ew,22,21,68,49,none,none,16,18,51,EW Priority
+SCN_0745,heavy_ns,98,61,24,23,none,none,21,54,15,NS Priority
+SCN_0746,heavy_ns,86,60,15,11,none,none,15,55,15,NS Priority
+SCN_0747,heavy_ns,105,87,26,19,none,none,11,55,15,NS Priority
+SCN_0748,closure_ew,27,27,91,41,E,none,6,52,17,NS Corridor Priority
+SCN_0749,closure_ew,40,24,85,40,E,none,16,49,15,NS Corridor Priority
+SCN_0750,balanced,25,31,21,28,none,none,9,37,32,Balanced Timing
+SCN_0751,heavy_ew,21,15,100,52,none,none,16,15,55,EW Priority
+SCN_0752,closure_ns,55,44,41,38,N,none,16,15,48,EW Corridor Priority
+SCN_0753,heavy_ns,105,79,29,22,none,none,21,54,15,NS Priority
+SCN_0754,emergency_ew,44,38,25,29,none,W,19,17,57,Emergency EW Green Wave
+SCN_0755,emergency_ns,42,44,29,26,none,S,11,55,15,Emergency NS Green Wave
+SCN_0756,balanced,24,39,21,30,none,none,15,38,31,Balanced Timing
+SCN_0757,closure_ns,62,20,31,40,N,none,11,15,50,EW Corridor Priority
+SCN_0758,closure_ew,23,20,46,49,W,none,16,48,15,NS Corridor Priority
+SCN_0759,closure_ns,72,46,33,44,S,none,9,13,48,EW Corridor Priority
+SCN_0760,heavy_ns,90,53,14,26,none,none,20,54,15,NS Priority
+SCN_0761,emergency_ew,45,35,26,28,none,W,21,18,54,Emergency EW Green Wave
+SCN_0762,emergency_ns,45,40,26,48,none,S,9,55,11,Emergency NS Green Wave
+SCN_0763,emergency_ew,44,29,20,29,none,W,10,13,54,Emergency EW Green Wave
+SCN_0764,emergency_ew,26,40,31,41,none,W,7,14,54,Emergency EW Green Wave
+SCN_0765,heavy_ew,15,14,92,60,none,none,17,15,55,EW Priority
+SCN_0766,heavy_ew,13,20,77,33,none,none,16,16,53,EW Priority
+SCN_0767,balanced,43,38,36,16,none,none,7,42,27,NS Priority
+SCN_0768,closure_ew,44,42,60,42,W,none,11,51,15,NS Corridor Priority
+SCN_0769,emergency_ew,45,32,41,24,none,E,22,17,56,Emergency EW Green Wave
+SCN_0770,heavy_ns,98,64,16,24,none,none,15,55,15,NS Priority
+SCN_0771,heavy_ns,87,78,24,12,none,none,15,55,15,NS Priority
+SCN_0772,emergency_ns,25,32,48,38,none,N,17,54,15,Emergency NS Green Wave
+SCN_0773,heavy_ew,13,12,80,32,none,none,20,15,55,EW Priority
+SCN_0774,closure_ns,45,32,22,35,N,none,13,15,48,EW Corridor Priority
+SCN_0775,closure_ns,36,25,21,28,N,none,12,16,51,EW Corridor Priority
+SCN_0776,closure_ew,30,35,85,27,W,none,6,49,15,NS Corridor Priority
+SCN_0777,closure_ew,33,35,53,28,W,none,22,52,17,NS Corridor Priority
+SCN_0778,balanced,25,28,42,32,none,none,18,29,40,EW Priority
+SCN_0779,heavy_ns,68,89,29,10,none,none,20,55,15,NS Priority
+SCN_0780,closure_ew,21,35,42,45,E,none,19,53,16,NS Corridor Priority
+SCN_0781,emergency_ew,24,44,39,41,none,E,18,13,56,Emergency EW Green Wave
+SCN_0782,heavy_ew,11,24,71,42,none,none,18,16,53,EW Priority
+SCN_0783,heavy_ew,18,16,70,48,none,none,20,15,54,EW Priority
+SCN_0784,heavy_ns,85,95,23,22,none,none,12,55,15,NS Priority
+SCN_0785,closure_ew,38,30,94,41,E,none,14,51,15,NS Corridor Priority
+SCN_0786,heavy_ew,16,21,87,62,none,none,17,15,55,EW Priority
+SCN_0787,heavy_ns,96,75,12,11,none,none,22,55,15,NS Priority
+SCN_0788,emergency_ew,35,25,32,49,none,W,8,15,55,Emergency EW Green Wave
+SCN_0789,closure_ew,32,33,47,31,E,none,21,51,18,NS Corridor Priority
+SCN_0790,heavy_ew,14,18,100,30,none,none,13,15,55,EW Priority
+SCN_0791,emergency_ns,42,49,32,30,none,N,16,52,13,Emergency NS Green Wave
+SCN_0792,closure_ns,56,32,31,37,N,none,12,15,46,EW Corridor Priority
+SCN_0793,closure_ew,28,40,84,44,E,none,11,51,17,NS Corridor Priority
+SCN_0794,closure_ns,52,39,24,41,N,none,18,18,47,EW Corridor Priority
+SCN_0795,balanced,39,40,32,23,none,none,7,41,28,NS Priority
+SCN_0796,emergency_ns,48,25,25,32,none,N,16,53,14,Emergency NS Green Wave
+SCN_0797,heavy_ns,92,73,28,27,none,none,8,52,17,NS Priority
+SCN_0798,balanced,17,44,15,18,none,none,18,45,24,NS Priority
+SCN_0799,balanced,31,42,44,25,none,none,18,35,34,Balanced Timing
+SCN_0800,heavy_ew,11,22,78,52,none,none,21,15,55,EW Priority
+SCN_0801,heavy_ns,68,50,19,28,none,none,21,50,19,NS Priority
+SCN_0802,balanced,30,26,22,37,none,none,7,34,35,Balanced Timing
+SCN_0803,heavy_ew,18,22,104,35,none,none,7,15,54,EW Priority
+SCN_0804,closure_ns,70,35,30,26,S,none,11,17,51,EW Corridor Priority
+SCN_0805,balanced,29,18,22,23,none,none,14,35,34,Balanced Timing
+SCN_0806,closure_ns,33,36,35,34,S,none,14,19,47,EW Corridor Priority
+SCN_0807,heavy_ew,11,22,72,33,none,none,20,16,53,EW Priority
+SCN_0808,heavy_ew,19,22,90,37,none,none,18,17,52,EW Priority
+SCN_0809,heavy_ns,105,58,20,12,none,none,21,55,15,NS Priority
+SCN_0810,closure_ns,65,43,32,31,N,none,15,17,49,EW Corridor Priority
+SCN_0811,balanced,16,36,38,42,none,none,12,27,42,EW Priority
+SCN_0812,emergency_ew,26,40,42,48,none,W,12,16,53,Emergency EW Green Wave
+SCN_0813,emergency_ew,36,32,21,44,none,E,17,15,58,Emergency EW Green Wave
+SCN_0814,heavy_ew,12,19,94,47,none,none,11,15,55,EW Priority
+SCN_0815,heavy_ns,78,71,28,24,none,none,10,51,18,NS Priority
+SCN_0816,emergency_ns,43,28,23,34,none,S,21,55,15,Emergency NS Green Wave
+SCN_0817,emergency_ew,38,25,23,26,none,E,19,14,55,Emergency EW Green Wave
+SCN_0818,heavy_ns,77,77,25,29,none,none,13,51,18,NS Priority
+SCN_0819,heavy_ns,76,94,22,16,none,none,15,55,15,NS Priority
+SCN_0820,heavy_ns,93,85,15,27,none,none,15,55,15,NS Priority
+SCN_0821,emergency_ew,49,44,42,36,none,E,11,13,56,Emergency EW Green Wave
+SCN_0822,emergency_ew,22,30,25,48,none,W,7,16,52,Emergency EW Green Wave
+SCN_0823,emergency_ns,39,35,41,46,none,N,13,53,15,Emergency NS Green Wave
+SCN_0824,emergency_ns,46,22,41,32,none,N,9,55,14,Emergency NS Green Wave
+SCN_0825,heavy_ns,97,56,21,18,none,none,21,55,15,NS Priority
+SCN_0826,heavy_ns,101,82,27,13,none,none,16,55,15,NS Priority
+SCN_0827,closure_ns,46,22,35,24,N,none,14,15,51,EW Corridor Priority
+SCN_0828,emergency_ns,48,36,47,43,none,N,21,55,13,Emergency NS Green Wave
+SCN_0829,emergency_ns,34,34,25,46,none,S,19,57,17,Emergency NS Green Wave
+SCN_0830,emergency_ew,34,32,28,21,none,W,8,14,57,Emergency EW Green Wave
+SCN_0831,emergency_ns,20,21,49,34,none,N,22,52,13,Emergency NS Green Wave
+SCN_0832,heavy_ew,22,16,90,54,none,none,12,15,55,EW Priority
+SCN_0833,emergency_ns,46,41,21,36,none,S,19,57,14,Emergency NS Green Wave
+SCN_0834,emergency_ns,35,37,45,36,none,N,8,54,13,Emergency NS Green Wave
+SCN_0835,emergency_ew,40,26,21,49,none,W,7,16,54,Emergency EW Green Wave
+SCN_0836,heavy_ns,96,89,18,14,none,none,14,55,15,NS Priority
+SCN_0837,heavy_ew,18,20,95,51,none,none,7,15,55,EW Priority
+SCN_0838,emergency_ns,48,25,46,33,none,N,7,55,15,Emergency NS Green Wave
+SCN_0839,emergency_ew,43,23,23,48,none,E,6,13,52,Emergency EW Green Wave
+SCN_0840,balanced,23,37,18,42,none,none,15,35,35,Balanced Timing
+SCN_0841,emergency_ns,42,37,29,43,none,S,21,54,14,Emergency NS Green Wave
+SCN_0842,heavy_ew,10,14,102,68,none,none,18,15,55,EW Priority
+SCN_0843,closure_ns,44,37,42,41,N,none,15,16,49,EW Corridor Priority
+SCN_0844,heavy_ew,16,17,65,51,none,none,15,15,54,EW Priority
+SCN_0845,heavy_ew,13,23,108,58,none,none,6,15,55,EW Priority
+SCN_0846,closure_ns,76,31,29,38,N,none,19,16,47,EW Corridor Priority
+SCN_0847,emergency_ew,49,48,41,30,none,W,8,14,56,Emergency EW Green Wave
+SCN_0848,balanced,16,15,44,30,none,none,15,20,49,EW Priority
+SCN_0849,heavy_ew,15,23,82,54,none,none,22,15,54,EW Priority
+SCN_0850,emergency_ew,41,22,43,42,none,W,19,15,57,Emergency EW Green Wave
+SCN_0851,closure_ns,30,46,40,40,N,none,6,15,47,EW Corridor Priority
+SCN_0852,emergency_ns,35,47,20,23,none,S,13,53,13,Emergency NS Green Wave
+SCN_0853,emergency_ew,32,23,33,33,none,W,7,18,52,Emergency EW Green Wave
+SCN_0854,heavy_ew,11,22,76,66,none,none,15,15,55,EW Priority
+SCN_0855,closure_ew,28,39,40,41,W,none,11,49,14,NS Corridor Priority
+SCN_0856,heavy_ns,104,82,22,16,none,none,11,55,15,NS Priority
+SCN_0857,emergency_ew,45,20,34,23,none,E,17,14,52,Emergency EW Green Wave
+SCN_0858,balanced,43,16,37,40,none,none,10,30,39,Balanced Timing
+SCN_0859,balanced,37,20,37,30,none,none,21,32,37,Balanced Timing
+SCN_0860,emergency_ns,22,42,48,21,none,N,8,58,11,Emergency NS Green Wave
+SCN_0861,emergency_ew,37,30,26,28,none,W,8,13,52,Emergency EW Green Wave
+SCN_0862,emergency_ns,26,45,21,49,none,S,12,54,16,Emergency NS Green Wave
+SCN_0863,balanced,24,33,29,24,none,none,6,36,33,Balanced Timing
+SCN_0864,heavy_ns,75,90,24,26,none,none,17,53,16,NS Priority
+SCN_0865,emergency_ns,23,37,26,32,none,N,7,57,13,Emergency NS Green Wave
+SCN_0866,emergency_ns,29,44,24,35,none,N,6,53,12,Emergency NS Green Wave
+SCN_0867,closure_ns,62,36,43,24,S,none,13,15,52,EW Corridor Priority
+SCN_0868,closure_ew,36,36,92,37,W,none,14,50,18,NS Corridor Priority
+SCN_0869,emergency_ew,36,37,29,35,none,E,15,16,51,Emergency EW Green Wave
+SCN_0870,balanced,28,31,43,18,none,none,14,34,35,Balanced Timing
+SCN_0871,heavy_ew,20,21,68,42,none,none,20,19,50,EW Priority
+SCN_0872,emergency_ew,24,42,38,45,none,W,20,14,56,Emergency EW Green Wave
+SCN_0873,heavy_ew,21,10,77,61,none,none,19,15,55,EW Priority
+SCN_0874,closure_ns,62,29,38,36,S,none,8,15,46,EW Corridor Priority
+SCN_0875,emergency_ew,36,42,45,22,none,E,8,12,57,Emergency EW Green Wave
+SCN_0876,closure_ew,41,20,88,44,W,none,21,53,14,NS Corridor Priority
+SCN_0877,heavy_ew,22,16,87,35,none,none,13,16,53,EW Priority
+SCN_0878,closure_ew,28,33,82,45,E,none,21,48,14,NS Corridor Priority
+SCN_0879,heavy_ew,13,24,62,33,none,none,18,19,50,EW Priority
+SCN_0880,closure_ns,43,31,36,31,S,none,16,16,51,EW Corridor Priority
+SCN_0881,emergency_ns,45,40,47,35,none,S,7,56,15,Emergency NS Green Wave
+SCN_0882,closure_ew,39,33,42,42,W,none,7,51,17,NS Corridor Priority
+SCN_0883,closure_ew,38,21,83,48,W,none,19,48,21,NS Corridor Priority
+SCN_0884,closure_ew,41,40,90,27,W,none,17,52,15,NS Corridor Priority
+SCN_0885,emergency_ns,35,26,46,24,none,N,16,54,13,Emergency NS Green Wave
+SCN_0886,heavy_ew,16,14,96,38,none,none,10,15,55,EW Priority
+SCN_0887,emergency_ew,25,36,45,40,none,E,8,16,56,Emergency EW Green Wave
+SCN_0888,emergency_ns,43,48,22,42,none,S,13,55,16,Emergency NS Green Wave
+SCN_0889,emergency_ns,29,45,36,36,none,N,7,56,15,Emergency NS Green Wave
+SCN_0890,balanced,21,18,24,27,none,none,17,30,39,Balanced Timing
+SCN_0891,heavy_ew,14,15,63,47,none,none,15,15,55,EW Priority
+SCN_0892,closure_ns,46,29,21,25,S,none,7,16,47,EW Corridor Priority
+SCN_0893,emergency_ew,21,27,45,30,none,E,17,15,53,Emergency EW Green Wave
+SCN_0894,closure_ns,65,48,29,31,S,none,21,17,50,EW Corridor Priority
+SCN_0895,heavy_ew,11,23,98,49,none,none,17,15,55,EW Priority
+SCN_0896,emergency_ew,20,45,25,25,none,E,12,14,53,Emergency EW Green Wave
+SCN_0897,closure_ew,25,36,90,37,E,none,15,49,15,NS Corridor Priority
+SCN_0898,closure_ns,68,43,20,37,N,none,11,15,51,EW Corridor Priority
+SCN_0899,heavy_ns,105,91,19,20,none,none,15,55,15,NS Priority
+SCN_0900,emergency_ew,39,27,49,42,none,E,7,16,54,Emergency EW Green Wave
+SCN_0901,heavy_ew,10,14,93,49,none,none,20,15,55,EW Priority
+SCN_0902,heavy_ns,83,57,21,19,none,none,19,54,15,NS Priority
+SCN_0903,emergency_ew,21,45,45,23,none,E,22,12,55,Emergency EW Green Wave
+SCN_0904,balanced,24,33,32,19,none,none,9,36,33,Balanced Timing
+SCN_0905,emergency_ns,31,43,21,40,none,N,21,52,15,Emergency NS Green Wave
+SCN_0906,emergency_ns,48,22,45,27,none,N,18,56,19,Emergency NS Green Wave
+SCN_0907,closure_ew,31,37,52,24,E,none,7,48,16,NS Corridor Priority
+SCN_0908,closure_ns,55,43,31,35,S,none,12,15,50,EW Corridor Priority
+SCN_0909,closure_ns,39,39,32,28,N,none,10,15,48,EW Corridor Priority
+SCN_0910,heavy_ew,17,21,91,64,none,none,12,15,55,EW Priority
+SCN_0911,emergency_ew,23,40,25,20,none,W,20,15,53,Emergency EW Green Wave
+SCN_0912,closure_ns,58,40,35,32,N,none,10,15,49,EW Corridor Priority
+SCN_0913,emergency_ns,35,40,29,44,none,S,9,49,15,Emergency NS Green Wave
+SCN_0914,closure_ew,21,33,73,32,E,none,8,48,11,NS Corridor Priority
+SCN_0915,heavy_ew,20,19,97,33,none,none,19,16,53,EW Priority
+SCN_0916,closure_ns,70,27,24,38,N,none,6,16,48,EW Corridor Priority
+SCN_0917,emergency_ns,48,38,41,38,none,N,20,52,12,Emergency NS Green Wave
+SCN_0918,heavy_ew,14,12,68,47,none,none,9,15,55,EW Priority
+SCN_0919,heavy_ns,93,90,23,13,none,none,8,55,15,NS Priority
+SCN_0920,closure_ns,74,37,34,29,N,none,14,14,47,EW Corridor Priority
+SCN_0921,heavy_ew,20,20,83,64,none,none,22,15,55,EW Priority
+SCN_0922,emergency_ns,26,45,36,49,none,S,15,53,17,Emergency NS Green Wave
+SCN_0923,balanced,18,21,37,16,none,none,14,29,40,EW Priority
+SCN_0924,balanced,37,44,29,29,none,none,13,40,29,NS Priority
+SCN_0925,heavy_ns,93,73,26,25,none,none,16,53,16,NS Priority
+SCN_0926,balanced,27,29,41,18,none,none,20,34,35,Balanced Timing
+SCN_0927,emergency_ns,23,22,41,36,none,S,17,53,14,Emergency NS Green Wave
+SCN_0928,emergency_ew,31,45,42,41,none,E,9,14,55,Emergency EW Green Wave
+SCN_0929,closure_ew,40,34,56,37,E,none,21,50,17,NS Corridor Priority
+SCN_0930,closure_ns,65,23,39,39,S,none,19,17,49,EW Corridor Priority
+SCN_0931,emergency_ew,29,28,32,26,none,W,15,14,56,Emergency EW Green Wave
+SCN_0932,emergency_ns,47,36,26,33,none,N,13,54,13,Emergency NS Green Wave
+SCN_0933,closure_ns,72,38,23,37,S,none,13,15,51,EW Corridor Priority
+SCN_0934,balanced,40,26,24,20,none,none,9,42,28,NS Priority
+SCN_0935,balanced,21,40,41,35,none,none,6,31,38,Balanced Timing
+SCN_0936,closure_ew,33,42,91,39,W,none,21,51,16,NS Corridor Priority
+SCN_0937,closure_ns,58,38,20,20,S,none,20,17,50,EW Corridor Priority
+SCN_0938,heavy_ns,99,52,22,15,none,none,14,55,15,NS Priority
+SCN_0939,closure_ns,63,40,43,42,N,none,17,14,53,EW Corridor Priority
+SCN_0940,closure_ns,52,28,36,21,N,none,18,16,50,EW Corridor Priority
+SCN_0941,emergency_ns,46,39,28,36,none,S,15,55,14,Emergency NS Green Wave
+SCN_0942,emergency_ns,36,24,26,37,none,N,9,55,12,Emergency NS Green Wave
+SCN_0943,balanced,18,22,27,18,none,none,12,32,37,Balanced Timing
+SCN_0944,emergency_ns,31,23,43,48,none,S,10,55,12,Emergency NS Green Wave
+SCN_0945,emergency_ns,29,44,38,31,none,S,10,55,11,Emergency NS Green Wave
+SCN_0946,heavy_ns,71,69,10,26,none,none,18,55,15,NS Priority
+SCN_0947,closure_ns,76,46,26,41,S,none,6,16,49,EW Corridor Priority
+SCN_0948,heavy_ns,108,78,27,21,none,none,12,55,15,NS Priority
+SCN_0949,emergency_ns,23,37,47,25,none,N,7,56,12,Emergency NS Green Wave
+SCN_0950,balanced,22,33,17,32,none,none,19,37,32,Balanced Timing
+SCN_0951,closure_ns,59,23,26,39,S,none,19,17,49,EW Corridor Priority
+SCN_0952,heavy_ew,23,15,90,52,none,none,16,15,55,EW Priority
+SCN_0953,closure_ew,23,34,63,44,E,none,11,47,14,NS Corridor Priority
+SCN_0954,closure_ew,31,37,81,25,E,none,15,50,18,NS Corridor Priority
+SCN_0955,heavy_ew,24,23,103,46,none,none,15,16,53,EW Priority
+SCN_0956,closure_ew,28,38,94,26,W,none,12,49,16,NS Corridor Priority
+SCN_0957,emergency_ns,38,49,21,31,none,S,18,56,15,Emergency NS Green Wave
+SCN_0958,closure_ns,51,41,29,38,N,none,8,17,46,EW Corridor Priority
+SCN_0959,heavy_ew,19,16,83,46,none,none,9,15,55,EW Priority
+SCN_0960,closure_ew,24,29,48,46,E,none,11,47,16,NS Corridor Priority
+SCN_0961,emergency_ns,46,22,22,23,none,S,9,52,13,Emergency NS Green Wave
+SCN_0962,closure_ew,23,33,53,32,E,none,13,52,14,NS Corridor Priority
+SCN_0963,balanced,31,23,16,39,none,none,8,34,35,Balanced Timing
+SCN_0964,closure_ns,57,30,41,34,S,none,7,17,54,EW Corridor Priority
+SCN_0965,heavy_ew,18,17,75,64,none,none,6,15,55,EW Priority
+SCN_0966,heavy_ns,85,60,16,19,none,none,10,55,15,NS Priority
+SCN_0967,heavy_ew,12,17,90,40,none,none,7,15,55,EW Priority
+SCN_0968,closure_ns,31,25,28,39,N,none,12,14,48,EW Corridor Priority
+SCN_0969,balanced,21,21,31,27,none,none,17,29,40,EW Priority
+SCN_0970,heavy_ns,82,76,23,15,none,none,11,55,15,NS Priority
+SCN_0971,emergency_ns,41,39,44,34,none,S,7,57,15,Emergency NS Green Wave
+SCN_0972,closure_ns,62,41,37,34,S,none,22,17,48,EW Corridor Priority
+SCN_0973,emergency_ns,38,29,34,29,none,S,10,54,14,Emergency NS Green Wave
+SCN_0974,emergency_ns,47,21,49,32,none,S,8,53,14,Emergency NS Green Wave
+SCN_0975,emergency_ew,39,43,48,46,none,E,12,16,51,Emergency EW Green Wave
+SCN_0976,heavy_ew,19,24,97,34,none,none,12,17,52,EW Priority
+SCN_0977,emergency_ew,34,45,35,38,none,E,7,13,56,Emergency EW Green Wave
+SCN_0978,closure_ns,32,43,39,30,S,none,12,17,51,EW Corridor Priority
+SCN_0979,emergency_ew,21,46,23,30,none,W,11,16,55,Emergency EW Green Wave
+SCN_0980,emergency_ew,47,26,20,44,none,E,8,15,57,Emergency EW Green Wave
+SCN_0981,emergency_ew,49,31,48,29,none,W,7,14,53,Emergency EW Green Wave
+SCN_0982,closure_ew,29,37,51,23,E,none,11,48,16,NS Corridor Priority
+SCN_0983,emergency_ns,22,29,24,33,none,N,21,56,16,Emergency NS Green Wave
+SCN_0984,heavy_ew,24,21,85,37,none,none,11,18,51,EW Priority
+SCN_0985,closure_ns,45,20,35,24,N,none,20,16,48,EW Corridor Priority
+SCN_0986,closure_ns,72,40,21,41,N,none,21,16,53,EW Corridor Priority
+SCN_0987,emergency_ns,44,30,27,27,none,S,11,58,14,Emergency NS Green Wave
+SCN_0988,emergency_ns,41,40,43,39,none,N,13,59,15,Emergency NS Green Wave
+SCN_0989,heavy_ew,18,24,89,55,none,none,21,15,54,EW Priority
+SCN_0990,heavy_ew,13,13,104,66,none,none,21,15,55,EW Priority
+SCN_0991,emergency_ns,28,27,48,35,none,N,12,53,15,Emergency NS Green Wave
+SCN_0992,emergency_ew,20,44,28,44,none,E,19,12,56,Emergency EW Green Wave
+SCN_0993,heavy_ew,20,21,87,37,none,none,22,17,52,EW Priority
+SCN_0994,emergency_ew,26,29,23,28,none,W,10,16,55,Emergency EW Green Wave
+SCN_0995,balanced,24,34,39,36,none,none,15,30,39,Balanced Timing
+SCN_0996,closure_ns,35,40,21,37,S,none,8,16,50,EW Corridor Priority
+SCN_0997,closure_ew,36,20,92,39,E,none,6,51,17,NS Corridor Priority
+SCN_0998,emergency_ns,45,32,20,43,none,N,17,55,14,Emergency NS Green Wave
+SCN_0999,closure_ew,27,35,56,38,W,none,9,48,15,NS Corridor Priority
+SCN_1000,balanced,25,15,29,40,none,none,7,25,44,EW Priority
+SCN_1001,heavy_ns,102,54,12,22,none,none,9,55,15,NS Priority
+SCN_1002,heavy_ew,11,11,98,52,none,none,16,15,55,EW Priority
+SCN_1003,emergency_ew,31,26,36,45,none,E,12,15,52,Emergency EW Green Wave
+SCN_1004,closure_ew,32,20,74,35,W,none,9,48,17,NS Corridor Priority
+SCN_1005,emergency_ew,38,20,24,38,none,W,21,15,53,Emergency EW Green Wave
+SCN_1006,closure_ew,23,23,43,23,E,none,10,48,15,NS Corridor Priority
+SCN_1007,balanced,35,18,26,21,none,none,7,37,32,Balanced Timing
+SCN_1008,emergency_ew,41,45,40,36,none,E,12,15,56,Emergency EW Green Wave
+SCN_1009,balanced,31,19,16,34,none,none,19,35,35,Balanced Timing
+SCN_1010,emergency_ns,20,22,45,26,none,N,19,53,13,Emergency NS Green Wave
+SCN_1011,heavy_ns,77,65,13,21,none,none,10,55,15,NS Priority
+SCN_1012,closure_ns,41,22,24,36,S,none,12,15,48,EW Corridor Priority
+SCN_1013,heavy_ns,64,94,19,18,none,none,22,55,15,NS Priority
+SCN_1014,balanced,18,18,32,23,none,none,6,27,42,EW Priority
+SCN_1015,emergency_ns,34,25,43,29,none,N,19,54,14,Emergency NS Green Wave
+SCN_1016,heavy_ew,21,16,75,40,none,none,22,17,52,EW Priority
+SCN_1017,emergency_ns,37,49,29,25,none,N,8,56,14,Emergency NS Green Wave
+SCN_1018,balanced,27,18,37,28,none,none,11,28,41,EW Priority
+SCN_1019,balanced,22,26,16,26,none,none,10,37,32,Balanced Timing
+SCN_1020,closure_ns,74,28,29,20,N,none,10,15,49,EW Corridor Priority
+SCN_1021,closure_ew,44,28,65,21,W,none,8,50,16,NS Corridor Priority
+SCN_1022,balanced,21,26,17,37,none,none,18,32,37,Balanced Timing
+SCN_1023,emergency_ew,48,41,28,31,none,W,14,15,53,Emergency EW Green Wave
+SCN_1024,heavy_ew,23,14,101,39,none,none,18,15,55,EW Priority
+SCN_1025,heavy_ns,96,79,16,15,none,none,7,55,15,NS Priority
+SCN_1026,emergency_ns,22,45,44,49,none,N,8,54,16,Emergency NS Green Wave
+SCN_1027,closure_ew,31,36,75,21,W,none,22,50,15,NS Corridor Priority
+SCN_1028,heavy_ew,17,13,105,51,none,none,9,15,55,EW Priority
+SCN_1029,closure_ns,59,27,21,44,N,none,16,17,52,EW Corridor Priority
+SCN_1030,heavy_ns,67,68,17,28,none,none,20,52,17,NS Priority
+SCN_1031,heavy_ew,22,16,100,62,none,none,15,15,55,EW Priority
+SCN_1032,heavy_ns,78,82,24,25,none,none,10,53,16,NS Priority
+SCN_1033,emergency_ew,31,27,24,29,none,W,12,16,55,Emergency EW Green Wave
+SCN_1034,heavy_ew,15,24,72,57,none,none,10,16,53,EW Priority
+SCN_1035,balanced,37,15,25,32,none,none,16,33,36,Balanced Timing
+SCN_1036,heavy_ew,22,16,92,55,none,none,21,15,55,EW Priority
+SCN_1037,balanced,20,16,31,20,none,none,22,28,41,EW Priority
+SCN_1038,emergency_ns,43,37,46,28,none,S,11,52,14,Emergency NS Green Wave
+SCN_1039,emergency_ew,41,41,25,45,none,W,11,18,56,Emergency EW Green Wave
+SCN_1040,emergency_ns,27,37,44,32,none,N,21,52,14,Emergency NS Green Wave
+SCN_1041,emergency_ew,39,21,44,32,none,E,14,14,53,Emergency EW Green Wave
+SCN_1042,heavy_ew,16,10,78,32,none,none,11,15,55,EW Priority
+SCN_1043,heavy_ew,18,13,71,34,none,none,12,15,54,EW Priority
+SCN_1044,heavy_ns,89,53,14,10,none,none,16,55,15,NS Priority
+SCN_1045,heavy_ns,72,90,11,14,none,none,17,55,15,NS Priority
+SCN_1046,closure_ns,53,22,41,23,S,none,21,16,52,EW Corridor Priority
+SCN_1047,emergency_ew,30,35,29,36,none,E,15,14,55,Emergency EW Green Wave
+SCN_1048,heavy_ew,15,24,99,55,none,none,7,15,55,EW Priority
+SCN_1049,closure_ns,43,44,35,20,S,none,8,16,48,EW Corridor Priority
+SCN_1050,heavy_ew,15,16,80,30,none,none,14,15,54,EW Priority
+SCN_1051,closure_ns,35,42,31,23,N,none,15,16,48,EW Corridor Priority
+SCN_1052,heavy_ns,62,61,16,21,none,none,13,53,16,NS Priority
+SCN_1053,heavy_ew,15,16,89,34,none,none,19,15,55,EW Priority
+SCN_1054,balanced,19,17,41,31,none,none,16,23,46,EW Priority
+SCN_1055,heavy_ew,16,23,105,66,none,none,6,15,55,EW Priority
+SCN_1056,heavy_ns,82,51,17,18,none,none,16,55,15,NS Priority
+SCN_1057,heavy_ns,61,88,14,14,none,none,8,55,15,NS Priority
+SCN_1058,closure_ew,39,25,59,37,E,none,18,50,15,NS Corridor Priority
+SCN_1059,heavy_ew,18,18,62,62,none,none,11,15,54,EW Priority
+SCN_1060,balanced,27,33,26,30,none,none,10,36,33,Balanced Timing
+SCN_1061,balanced,26,44,19,16,none,none,8,46,23,NS Priority
+SCN_1062,emergency_ns,44,34,41,22,none,N,12,56,15,Emergency NS Green Wave
+SCN_1063,closure_ns,62,27,43,37,S,none,13,17,51,EW Corridor Priority
+SCN_1064,closure_ew,32,29,78,44,E,none,17,51,15,NS Corridor Priority
+SCN_1065,balanced,32,37,32,27,none,none,13,37,32,Balanced Timing
+SCN_1066,closure_ew,36,24,61,35,W,none,20,51,16,NS Corridor Priority
+SCN_1067,balanced,18,40,19,42,none,none,12,34,35,Balanced Timing
+SCN_1068,emergency_ew,45,37,48,42,none,E,21,15,57,Emergency EW Green Wave
+SCN_1069,balanced,37,39,25,31,none,none,22,40,29,NS Priority
+SCN_1070,heavy_ew,22,13,89,48,none,none,19,15,55,EW Priority
+SCN_1071,closure_ns,42,37,42,33,S,none,12,16,48,EW Corridor Priority
+SCN_1072,balanced,43,36,31,33,none,none,6,38,31,Balanced Timing
+SCN_1073,heavy_ns,94,86,11,29,none,none,11,55,15,NS Priority
+SCN_1074,balanced,24,24,38,35,none,none,9,27,42,EW Priority
+SCN_1075,heavy_ns,85,79,26,25,none,none,21,53,16,NS Priority
+SCN_1076,emergency_ew,45,35,27,49,none,E,21,13,50,Emergency EW Green Wave
+SCN_1077,heavy_ew,13,10,91,35,none,none,16,15,55,EW Priority
+SCN_1078,heavy_ns,68,77,15,12,none,none,7,55,15,NS Priority
+SCN_1079,closure_ew,20,42,40,24,E,none,11,51,14,NS Corridor Priority
+SCN_1080,emergency_ew,44,33,45,41,none,W,18,15,54,Emergency EW Green Wave
+SCN_1081,emergency_ew,36,33,27,23,none,W,15,16,54,Emergency EW Green Wave
+SCN_1082,heavy_ew,11,14,85,38,none,none,19,15,55,EW Priority
+SCN_1083,closure_ew,27,39,93,29,W,none,8,47,16,NS Corridor Priority
+SCN_1084,closure_ew,30,36,87,26,E,none,8,46,16,NS Corridor Priority
+SCN_1085,closure_ew,30,24,76,34,E,none,20,49,16,NS Corridor Priority
+SCN_1086,closure_ew,34,39,43,41,W,none,7,50,16,NS Corridor Priority
+SCN_1087,heavy_ew,21,17,61,37,none,none,16,19,50,EW Priority
+SCN_1088,closure_ns,47,42,37,33,N,none,16,19,49,EW Corridor Priority
+SCN_1089,heavy_ns,103,61,12,16,none,none,16,55,15,NS Priority
+SCN_1090,emergency_ns,44,40,29,30,none,N,16,56,14,Emergency NS Green Wave
+SCN_1091,heavy_ew,14,13,87,43,none,none,18,15,55,EW Priority
+SCN_1092,balanced,19,35,40,32,none,none,8,30,40,Balanced Timing
+SCN_1093,balanced,33,31,31,25,none,none,13,37,32,Balanced Timing
+SCN_1094,emergency_ew,41,33,22,31,none,W,7,14,54,Emergency EW Green Wave
+SCN_1095,heavy_ew,16,22,76,61,none,none,20,15,54,EW Priority
+SCN_1096,emergency_ew,49,36,33,25,none,W,19,13,54,Emergency EW Green Wave
+SCN_1097,heavy_ew,17,17,97,63,none,none,10,15,55,EW Priority
+SCN_1098,emergency_ew,41,41,43,20,none,E,20,15,55,Emergency EW Green Wave
+SCN_1099,emergency_ew,41,29,22,39,none,E,7,13,51,Emergency EW Green Wave
+SCN_1100,heavy_ew,14,17,63,56,none,none,18,15,55,EW Priority
+SCN_1101,closure_ew,36,21,69,27,E,none,10,47,13,NS Corridor Priority
+SCN_1102,balanced,16,21,22,42,none,none,10,25,44,EW Priority
+SCN_1103,emergency_ew,33,40,37,25,none,W,12,16,51,Emergency EW Green Wave
+SCN_1104,closure_ew,31,34,81,45,E,none,10,50,17,NS Corridor Priority
+SCN_1105,heavy_ns,62,72,16,16,none,none,13,55,15,NS Priority
+SCN_1106,emergency_ns,38,45,28,35,none,S,7,52,14,Emergency NS Green Wave
+SCN_1107,closure_ns,43,31,44,38,N,none,15,15,51,EW Corridor Priority
+SCN_1108,heavy_ns,69,53,28,28,none,none,13,47,22,NS Priority
+SCN_1109,emergency_ew,20,35,29,38,none,W,20,14,55,Emergency EW Green Wave
+SCN_1110,balanced,30,16,26,36,none,none,16,29,40,EW Priority
+SCN_1111,emergency_ns,27,31,48,46,none,N,16,56,14,Emergency NS Green Wave
+SCN_1112,heavy_ew,19,11,103,37,none,none,6,15,55,EW Priority
+SCN_1113,closure_ns,35,31,27,32,N,none,6,18,50,EW Corridor Priority
+SCN_1114,heavy_ns,99,81,14,26,none,none,6,55,15,NS Priority
+SCN_1115,emergency_ns,29,21,28,43,none,N,13,52,16,Emergency NS Green Wave
+SCN_1116,emergency_ns,21,33,41,30,none,S,19,52,15,Emergency NS Green Wave
+SCN_1117,emergency_ns,47,27,21,34,none,N,10,53,16,Emergency NS Green Wave
+SCN_1118,emergency_ew,41,35,48,28,none,W,19,13,53,Emergency EW Green Wave
+SCN_1119,closure_ns,35,43,38,44,S,none,10,15,49,EW Corridor Priority
+SCN_1120,emergency_ew,29,28,36,28,none,W,19,13,50,Emergency EW Green Wave
+SCN_1121,balanced,31,39,25,44,none,none,22,35,34,Balanced Timing
+SCN_1122,emergency_ns,40,45,33,26,none,N,9,54,13,Emergency NS Green Wave
+SCN_1123,emergency_ns,49,31,43,22,none,N,9,57,16,Emergency NS Green Wave
+SCN_1124,heavy_ns,75,56,20,10,none,none,9,55,15,NS Priority
+SCN_1125,heavy_ew,21,16,98,55,none,none,12,15,55,EW Priority
+SCN_1126,balanced,16,27,27,37,none,none,14,28,41,EW Priority
+SCN_1127,emergency_ew,43,31,36,21,none,E,9,11,51,Emergency EW Green Wave
+SCN_1128,closure_ew,27,34,72,39,E,none,20,50,17,NS Corridor Priority
+SCN_1129,emergency_ew,35,33,46,44,none,W,13,15,56,Emergency EW Green Wave
+SCN_1130,closure_ew,38,22,86,26,E,none,16,50,18,NS Corridor Priority
+SCN_1131,emergency_ns,24,42,37,41,none,N,18,54,13,Emergency NS Green Wave
+SCN_1132,heavy_ns,105,66,19,21,none,none,6,55,15,NS Priority
+SCN_1133,emergency_ns,42,47,29,48,none,S,21,56,15,Emergency NS Green Wave
+SCN_1134,closure_ns,45,38,43,43,N,none,21,15,49,EW Corridor Priority
+SCN_1135,closure_ns,55,31,31,42,S,none,14,14,49,EW Corridor Priority
+SCN_1136,heavy_ew,21,18,98,47,none,none,21,15,55,EW Priority
+SCN_1137,emergency_ew,31,30,39,22,none,W,11,16,51,Emergency EW Green Wave
+SCN_1138,balanced,32,30,22,39,none,none,10,35,34,Balanced Timing
+SCN_1139,emergency_ns,43,44,31,40,none,S,16,55,17,Emergency NS Green Wave
+SCN_1140,closure_ns,58,35,41,33,S,none,14,14,51,EW Corridor Priority
+SCN_1141,closure_ew,24,37,73,30,E,none,19,47,18,NS Corridor Priority
+SCN_1142,heavy_ns,93,99,16,26,none,none,17,55,15,NS Priority
+SCN_1143,emergency_ns,26,41,44,48,none,S,19,54,14,Emergency NS Green Wave
+SCN_1144,heavy_ew,21,21,89,46,none,none,22,16,53,EW Priority
+SCN_1145,heavy_ns,94,69,27,22,none,none,15,53,16,NS Priority
+SCN_1146,closure_ew,42,29,50,25,W,none,22,50,18,NS Corridor Priority
+SCN_1147,emergency_ew,24,36,27,27,none,W,7,13,55,Emergency EW Green Wave
+SCN_1148,heavy_ns,77,68,24,15,none,none,8,55,15,NS Priority
+SCN_1149,heavy_ew,20,16,108,41,none,none,21,15,55,EW Priority
+SCN_1150,closure_ns,75,42,20,36,N,none,15,15,49,EW Corridor Priority
+SCN_1151,emergency_ew,48,49,26,20,none,E,15,15,54,Emergency EW Green Wave
+SCN_1152,closure_ew,44,32,62,38,W,none,9,49,16,NS Corridor Priority
+SCN_1153,balanced,16,21,25,43,none,none,17,24,45,EW Priority
+SCN_1154,emergency_ns,21,26,34,44,none,N,18,54,14,Emergency NS Green Wave
+SCN_1155,heavy_ns,75,88,22,14,none,none,7,55,15,NS Priority
+SCN_1156,balanced,42,33,21,20,none,none,17,45,24,NS Priority
+SCN_1157,closure_ns,70,49,30,43,S,none,10,14,48,EW Corridor Priority
+SCN_1158,balanced,33,20,25,43,none,none,12,30,39,Balanced Timing
+SCN_1159,heavy_ns,61,68,13,15,none,none,12,55,15,NS Priority
+SCN_1160,balanced,43,42,44,21,none,none,10,39,30,Balanced Timing
+SCN_1161,balanced,15,33,20,32,none,none,6,33,36,Balanced Timing
+SCN_1162,heavy_ew,10,10,72,66,none,none,16,15,55,EW Priority
+SCN_1163,closure_ew,22,37,80,33,W,none,6,50,13,NS Corridor Priority
+SCN_1164,emergency_ns,45,40,36,41,none,N,9,52,17,Emergency NS Green Wave
+SCN_1165,emergency_ns,23,25,39,40,none,S,10,50,16,Emergency NS Green Wave
+SCN_1166,balanced,34,15,28,38,none,none,12,29,40,EW Priority
+SCN_1167,closure_ew,33,35,85,35,E,none,22,49,15,NS Corridor Priority
+SCN_1168,heavy_ns,61,64,19,27,none,none,6,51,18,NS Priority
+SCN_1169,emergency_ns,46,32,20,24,none,N,19,56,14,Emergency NS Green Wave
+SCN_1170,emergency_ns,38,36,49,22,none,N,8,53,14,Emergency NS Green Wave
+SCN_1171,closure_ew,30,36,79,36,E,none,17,51,16,NS Corridor Priority
+SCN_1172,heavy_ns,69,59,20,15,none,none,7,54,15,NS Priority
+SCN_1173,closure_ew,42,42,66,45,E,none,17,48,16,NS Corridor Priority
+SCN_1174,balanced,32,36,23,38,none,none,11,36,33,Balanced Timing
+SCN_1175,balanced,40,22,33,38,none,none,20,32,37,Balanced Timing
+SCN_1176,emergency_ns,22,29,20,47,none,S,11,54,14,Emergency NS Green Wave
+SCN_1177,heavy_ew,16,20,95,60,none,none,12,15,55,EW Priority
+SCN_1178,balanced,32,23,40,38,none,none,18,28,41,EW Priority
+SCN_1179,balanced,24,42,16,20,none,none,14,45,24,NS Priority
+SCN_1180,emergency_ew,25,22,43,30,none,E,8,16,54,Emergency EW Green Wave
+SCN_1181,heavy_ew,24,18,109,36,none,none,11,15,54,EW Priority
+SCN_1182,emergency_ew,21,27,39,21,none,W,14,13,55,Emergency EW Green Wave
+SCN_1183,emergency_ns,30,20,21,43,none,N,15,51,13,Emergency NS Green Wave
+SCN_1184,closure_ew,31,41,59,37,E,none,9,48,17,NS Corridor Priority
+SCN_1185,emergency_ns,30,43,47,42,none,N,9,55,16,Emergency NS Green Wave
+SCN_1186,emergency_ns,25,33,20,36,none,S,7,60,17,Emergency NS Green Wave
+SCN_1187,emergency_ns,47,48,30,22,none,S,12,56,13,Emergency NS Green Wave
+SCN_1188,emergency_ns,45,38,20,43,none,S,15,51,17,Emergency NS Green Wave
+SCN_1189,balanced,21,34,41,23,none,none,12,32,37,Balanced Timing
+SCN_1190,emergency_ns,36,20,28,39,none,S,7,59,15,Emergency NS Green Wave
+SCN_1191,closure_ns,70,41,37,31,N,none,9,16,48,EW Corridor Priority
+SCN_1192,emergency_ew,24,35,20,38,none,W,12,17,52,Emergency EW Green Wave
+SCN_1193,heavy_ew,22,22,92,31,none,none,13,18,51,EW Priority
+SCN_1194,emergency_ns,47,37,30,44,none,S,20,52,14,Emergency NS Green Wave
+SCN_1195,closure_ns,54,32,37,43,N,none,9,16,48,EW Corridor Priority
+SCN_1196,balanced,43,24,15,24,none,none,12,44,25,NS Priority
+SCN_1197,closure_ns,76,34,22,44,S,none,14,15,50,EW Corridor Priority
+SCN_1198,balanced,38,37,26,39,none,none,12,37,32,Balanced Timing
+SCN_1199,heavy_ns,65,83,18,26,none,none,14,53,16,NS Priority
+SCN_1200,balanced,19,16,23,44,none,none,11,24,45,EW Priority

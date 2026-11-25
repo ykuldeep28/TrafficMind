@@ -1,0 +1,8 @@
+<additional>
+  <tlLogic id="C" type="static" programID="trafficmind" offset="0">
+    <phase duration="30" state="GGrrrrrrrrrr"/>
+    <phase duration="3" state="yyrrrrrrrrrr"/>
+    <phase duration="30" state="rrGGrrrrrrrr"/>
+    <phase duration="3" state="rryyrrrrrrrr"/>
+  </tlLogic>
+</additional>
